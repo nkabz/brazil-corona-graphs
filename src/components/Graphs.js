@@ -65,7 +65,7 @@ function Graphs() {
             domainPadding={50}
             animate={{
                 duration: 2500,
-                onLoad: { duration: 400 }
+                onLoad: { duration: 200 }
             }}
             containerComponent={
                 <VictoryVoronoiContainer
