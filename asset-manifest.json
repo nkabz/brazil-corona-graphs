@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/brazil-corona-graphs/static/css/main.c5e4fff7.chunk.css",
-    "main.js": "/brazil-corona-graphs/static/js/main.0f829ef4.chunk.js",
-    "main.js.map": "/brazil-corona-graphs/static/js/main.0f829ef4.chunk.js.map",
+    "main.js": "/brazil-corona-graphs/static/js/main.ebe640cb.chunk.js",
+    "main.js.map": "/brazil-corona-graphs/static/js/main.ebe640cb.chunk.js.map",
     "runtime-main.js": "/brazil-corona-graphs/static/js/runtime-main.e8b69521.js",
     "runtime-main.js.map": "/brazil-corona-graphs/static/js/runtime-main.e8b69521.js.map",
-    "static/js/2.ce0f1ebb.chunk.js": "/brazil-corona-graphs/static/js/2.ce0f1ebb.chunk.js",
-    "static/js/2.ce0f1ebb.chunk.js.map": "/brazil-corona-graphs/static/js/2.ce0f1ebb.chunk.js.map",
+    "static/js/2.89df73e9.chunk.js": "/brazil-corona-graphs/static/js/2.89df73e9.chunk.js",
+    "static/js/2.89df73e9.chunk.js.map": "/brazil-corona-graphs/static/js/2.89df73e9.chunk.js.map",
     "index.html": "/brazil-corona-graphs/index.html",
-    "precache-manifest.51333c329e27767c44591d23633a5629.js": "/brazil-corona-graphs/precache-manifest.51333c329e27767c44591d23633a5629.js",
+    "precache-manifest.e048c006fa52ae7120f5ae80c8b95ed9.js": "/brazil-corona-graphs/precache-manifest.e048c006fa52ae7120f5ae80c8b95ed9.js",
     "service-worker.js": "/brazil-corona-graphs/service-worker.js",
     "static/css/main.c5e4fff7.chunk.css.map": "/brazil-corona-graphs/static/css/main.c5e4fff7.chunk.css.map",
-    "static/js/2.ce0f1ebb.chunk.js.LICENSE.txt": "/brazil-corona-graphs/static/js/2.ce0f1ebb.chunk.js.LICENSE.txt"
+    "static/js/2.89df73e9.chunk.js.LICENSE.txt": "/brazil-corona-graphs/static/js/2.89df73e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e8b69521.js",
-    "static/js/2.ce0f1ebb.chunk.js",
+    "static/js/2.89df73e9.chunk.js",
     "static/css/main.c5e4fff7.chunk.css",
-    "static/js/main.0f829ef4.chunk.js"
+    "static/js/main.ebe640cb.chunk.js"
   ]
 }
