@@ -63,9 +63,13 @@ function Graphs() {
             width={width}
             height={550}
             domainPadding={50}
+            animate={{
+                duration: 2500,
+                onLoad: { duration: 400 }
+            }}
             containerComponent={
                 <VictoryVoronoiContainer
-                    labels={({datum}) => `${moment(datum.x).format('MMM-YYYY').toString()}\nConfirmados: ${datum.y}`}
+                    labels={({datum}) => `${moment(datum.x).format('DD-MMM-YYYY').toString()}\nConfirmados: ${datum.y}`}
                     labelComponent={
                         <VictoryTooltip
                             cornerRadius={5}
@@ -80,14 +84,24 @@ function Graphs() {
         >
             <VictoryAxis
                 tickCount={tickCount}
-                tickLabelComponent={<VictoryLabel angle={-35} dy={10} />}
+                tickLabelComponent={<VictoryLabel angle={-35} dy={10} style={{ data: { fontSize: 32}}} />}
             />
             <VictoryAxis
+                style={{
+                    tickLabels: {fontSize: 16},
+                }}
                 dependentAxis
             />
             <VictoryLine
                 data={mapData}
-                style={{data: { stroke: "#c43a31" }, labels: {fill: "#c43a31", fontSize: 16, padding: 5}}}
+                style={{
+                    data: { stroke: "#c43a31" },
+                    labels: {
+                        fill: "#c43a31",
+                        fontSize: 20,
+                        padding: 5
+                    }
+                }}
             />
         </VictoryChart>
         : null
@@ -98,17 +112,28 @@ function Graphs() {
             height={550}
             width={width}
             domainPadding={100}
+            animate={{
+                duration: 1000,
+                onLoad: { duration: 500 }
+            }}
         >
-            <VictoryAxis />
+            <VictoryAxis
+            style={{
+                tickLabels: {fontSize: 16},
+            }}
+            />
             <VictoryAxis
                 dependentAxis
+                style={{
+                    tickLabels: {fontSize: 16},
+                }}
             />
             <VictoryBar
                 data={pieData}
                 style={{ data: { fill: "#c43a31", stroke: "black", strokeWidth: 1 }}}
                 labels={({ datum }) => datum.y}
                 labelComponent={(
-                    <VictoryLabel dy={-10} />
+                    <VictoryLabel dy={-10} style={{data: {fontSize: 20}}} />
                 )}
             />
         </VictoryChart>
