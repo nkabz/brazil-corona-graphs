@@ -69,7 +69,7 @@ function Graphs() {
             }}
             containerComponent={
                 <VictoryVoronoiContainer
-                    labels={({datum}) => `${moment(datum.x).format('DD-MMM-YYYY').toString()}\nConfirmados: ${datum.y}`}
+                    labels={({datum}) => `${moment(datum.x).format('DD/MMM/YYYY').toString()}\nConfirmados: ${datum.y}`}
                     labelComponent={
                         <VictoryTooltip
                             cornerRadius={5}
