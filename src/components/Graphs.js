@@ -75,7 +75,7 @@ function Graphs() {
                             cornerRadius={5}
                             flyoutStyle={{
                                 stroke: '#d7d7d7',
-                                fill: "none"
+                                fill: "white"
                             }}
                         />
                     }
@@ -130,10 +130,10 @@ function Graphs() {
             />
             <VictoryBar
                 data={pieData}
-                style={{ data: { fill: "#c43a31", stroke: "black", strokeWidth: 1 }}}
+                style={{ data: { fill: "#c43a31", stroke: "black", strokeWidth: 1 }, labels: {fill: '#c43a31', fontSize: 16}}}
                 labels={({ datum }) => datum.y}
                 labelComponent={(
-                    <VictoryLabel dy={-10} style={{data: {fontSize: 20}}} />
+                    <VictoryLabel dy={-10} />
                 )}
             />
         </VictoryChart>
