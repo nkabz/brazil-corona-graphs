@@ -13,7 +13,7 @@ import {
 import { translate } from '../../lib/translate'
 import { createPlotGraph } from '../../lib/utils'
 
-export default function Accumulative({width, mapData}) {
+export default function Accumulative({ width, mapData }) {
 
     const confirmedGraphData = createPlotGraph(mapData, 'confirmed');
     const deathGraphData = createPlotGraph(mapData, 'deaths')
@@ -24,6 +24,7 @@ export default function Accumulative({width, mapData}) {
             width={width}
             height={550}
             domainPadding={50}
+            padding={60}
             animate={{
                 duration: 2000,
                 onLoad: { duration: 1000 }
@@ -45,7 +46,13 @@ export default function Accumulative({width, mapData}) {
         >
             <VictoryAxis
                 tickCount={5}
-                tickLabelComponent={<VictoryLabel angle={-35} dy={10} style={{ data: { fontSize: 32 } }} />}
+                tickFormat={(label) => `${moment(label, 'YYYY/MM/DD').format('DD-MM')}\n${moment(label, 'YYYY/MM/DD').format('YYYY')}`}
+                tickLabelComponent={
+                    <VictoryLabel
+                        angle={-35}
+                        style={{ data: { fontSize: 32 } }}
+                    />
+                }
             />
             <VictoryAxis
                 style={{
@@ -53,28 +60,28 @@ export default function Accumulative({width, mapData}) {
                 }}
                 dependentAxis
             />
-                <VictoryLine
-                    data={confirmedGraphData}
-                    style={{
-                        data: { stroke: "#00279c" },
-                        labels: {
-                            fill: "#00279c",
-                            fontSize: 20,
-                            padding: 5
-                        }
-                    }}
-                />
-                <VictoryLine
-                    data={deathGraphData}
-                    style={{
-                        data: { stroke: "#9c000a" },
-                        labels: {
-                            fill: "#9c000a",
-                            fontSize: 20,
-                            padding: 5
-                        }
-                    }}
-                />
+            <VictoryLine
+                data={confirmedGraphData}
+                style={{
+                    data: { stroke: "#4791db" },
+                    labels: {
+                        fill: "#4791db",
+                        fontSize: 20,
+                        padding: 5
+                    }
+                }}
+            />
+            <VictoryLine
+                data={deathGraphData}
+                style={{
+                    data: { stroke: "#e33371" },
+                    labels: {
+                        fill: "#e33371",
+                        fontSize: 20,
+                        padding: 5
+                    }
+                }}
+            />
 
         </VictoryChart>
     )

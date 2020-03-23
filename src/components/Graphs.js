@@ -51,11 +51,11 @@ function Graphs () {
     return (
         <>
             <div className='mt-12'>
-                <h1 className='text-xl text-gray-600 mx-auto text-center'>Número de casos / Tempo</h1>
+                <h1 className='text-xl text-gray-600 mx-auto text-center'>Evolução Covid-19 / Dia</h1>
                 {chartGraph}
             </div>
             <div className='mt-20'>
-                <h1 className='text-xl text-gray-600 mx-auto text-center'> Número de casos / Dia</h1>
+                <h1 className='text-xl text-gray-600 mx-auto text-center'> Incremento no número de casos / Dia</h1>
                 <h3 className='text-xs text-gray-500 mx-auto text-center'>Desde o primeiro caso</h3>
                 {incrementGraph}
             </div>
