@@ -5,7 +5,7 @@ export function createPlotGraph (data, type) {
             y: data[key][type],
             name: type,
         }
-    })
+    }).filter((value) => value.y > 0)
 }
 
 export function incrementPlotGraph (data, type) {

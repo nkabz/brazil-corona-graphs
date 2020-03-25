@@ -18,7 +18,7 @@ export default function Increment({ width, mapData, type, graphColor }) {
                 theme={VictoryTheme.material}
                 width={width}
                 height={550}
-                domainPadding={15}
+                domainPadding={50}
                 animate={{
                     duration: 2000,
                     onLoad: { duration: 1000 }
@@ -35,7 +35,6 @@ export default function Increment({ width, mapData, type, graphColor }) {
                     dependentAxis
                 />
                 <VictoryBar
-                    horizontal
                     data={incrementData}
                     labels={({ datum }) => datum.y}
                     style={{
@@ -46,7 +45,7 @@ export default function Increment({ width, mapData, type, graphColor }) {
                             strokeWidth: 1,
                         }
                     }}
-                    labelComponent={<VictoryLabel dx={15} />}
+                    labelComponent={<VictoryLabel dy={-15} />}
                 />
             </VictoryChart>
     </>
