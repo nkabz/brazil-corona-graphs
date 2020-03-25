@@ -37,7 +37,7 @@ export default function Accumulative({ width, mapData }) {
                             cornerRadius={5}
                             flyoutStyle={{
                                 stroke: '#d7d7d7',
-                                fill: "white"
+                                fill: 'white',
                             }}
                         />
                     }
