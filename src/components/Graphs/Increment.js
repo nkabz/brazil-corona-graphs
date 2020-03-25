@@ -7,13 +7,19 @@ import {
     VictoryLabel,
 } from 'victory';
 
-import { incrementPlotGraph } from '../../lib/utils';
+import { incrementPlotGraph, incrementAverage } from '../../lib/utils';
 
 export default function Increment({ width, mapData, type, graphColor }) {
     const incrementData = incrementPlotGraph(mapData, type);
+    const averageData = incrementAverage(incrementData);
+
+
 
     return (
         <>
+            <div className='relative inline-block text-center z-20' style={{top: 100, left: 60, color: `rgba(${graphColor}, 1)`}}>
+                <p className='text-xs font-thin md:inline-block'>Aumento Percentual médio </p><p className='text-sm font-bold md:inline-block md: ml-1'>{averageData}%</p>
+            </div>
             <VictoryChart
                 theme={VictoryTheme.material}
                 width={width}
@@ -48,6 +54,6 @@ export default function Increment({ width, mapData, type, graphColor }) {
                     labelComponent={<VictoryLabel dy={-15} />}
                 />
             </VictoryChart>
-    </>
+        </>
     )
 }
