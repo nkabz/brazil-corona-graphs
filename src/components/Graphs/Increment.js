@@ -48,7 +48,7 @@ export default function Increment({ width, mapData, type, graphColor }) {
                             strokeWidth: 1,
                         }
                     }}
-                    labelComponent={<VictoryLabel dy={width < 500 ? 5 : -15} dx={width < 500 ? 20 : 0} angle={width < 500 ? -90 : 0}/>}
+                    labelComponent={<VictoryLabel dy={width < 500 ? 5 : -15} dx={width < 500 ? 20 : 0} angle={width < 500 ? -90 : 0} />}
                 />
             </VictoryChart>
             <div className='text-center italic'>

@@ -35,6 +35,7 @@ export default function Accumulative({ width, mapData }) {
                     labelComponent={
                         <VictoryTooltip
                             cornerRadius={5}
+                            centerOffset={{ x: width < 500 ? -50 : 0 }}
                             flyoutStyle={{
                                 stroke: '#d7d7d7',
                                 fill: 'white',
