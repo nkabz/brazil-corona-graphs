@@ -17,9 +17,6 @@ export default function Increment({ width, mapData, type, graphColor }) {
 
     return (
         <>
-            <div className='relative inline-block text-center z-20' style={{top: 100, left: 60, color: `rgba(${graphColor}, 1)`}}>
-                <p className='text-xs font-thin md:inline-block'>Aumento Percentual médio </p><p className='text-sm font-bold md:inline-block md: ml-1'>{averageData}%</p>
-            </div>
             <VictoryChart
                 theme={VictoryTheme.material}
                 width={width}
@@ -54,6 +51,9 @@ export default function Increment({ width, mapData, type, graphColor }) {
                     labelComponent={<VictoryLabel dy={-15} />}
                 />
             </VictoryChart>
+            <div className='text-center italic'>
+                <p className='text-xs text-gray-700 font-thin'>Aumento Percentual médio: <span className='text-xs font-bold ml-1' style={{color: `rgba(${graphColor}, 1)`}}>{averageData}%</span></p>
+            </div>
         </>
     )
 }
