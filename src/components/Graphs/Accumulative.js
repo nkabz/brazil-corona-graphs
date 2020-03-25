@@ -23,7 +23,7 @@ export default function Accumulative({ width, mapData }) {
             theme={VictoryTheme.material}
             width={width}
             height={550}
-            domainPadding={50}
+            domainPadding={width < 500 ? 10 : 50}
             padding={60}
             animate={{
                 duration: 2000,
