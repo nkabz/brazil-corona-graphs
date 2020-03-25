@@ -4,7 +4,7 @@ import {
     VictoryChart,
     VictoryVoronoiContainer,
     VictoryTheme,
-    VictoryLine,
+    VictoryArea,
     VictoryTooltip,
     VictoryAxis,
     VictoryLabel,
@@ -49,7 +49,6 @@ export default function Accumulative({ width, mapData }) {
                 tickFormat={(label) => `${moment(label, 'YYYY/MM/DD').format('DD-MM')}\n${moment(label, 'YYYY/MM/DD').format('YYYY')}`}
                 tickLabelComponent={
                     <VictoryLabel
-                        angle={-35}
                         style={{ data: { fontSize: 32 } }}
                     />
                 }
@@ -60,23 +59,23 @@ export default function Accumulative({ width, mapData }) {
                 }}
                 dependentAxis
             />
-            <VictoryLine
+            <VictoryArea
                 data={confirmedGraphData}
                 style={{
-                    data: { stroke: "#4791db" },
+                    data: { stroke: "rgba(52, 158, 235, 1)", fill: "rgba(52, 158, 235, 0.2)" },
                     labels: {
-                        fill: "#4791db",
+                        fill: "rgba(52, 158, 235, 1)",
                         fontSize: 20,
                         padding: 5
                     }
                 }}
             />
-            <VictoryLine
+            <VictoryArea
                 data={deathGraphData}
                 style={{
-                    data: { stroke: "#e33371" },
+                    data: { stroke: "rgba(230, 48, 78, 1)", fill: "rgba(230, 48, 78, 0.4)" },
                     labels: {
-                        fill: "#e33371",
+                        fill: "rgba(230, 48, 78, 1)",
                         fontSize: 20,
                         padding: 5
                     }

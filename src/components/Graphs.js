@@ -41,10 +41,21 @@ function Graphs () {
         />
         : null
 
-    const incrementGraph = mapData ?
+    const incrementConfirmedGraph = mapData ?
         <Increment
             width={width}
             mapData={mapData}
+            type='confirmed'
+            graphColor='52, 158, 235'
+        />
+        : null
+
+    const incrementDeathMap = mapData ?
+        <Increment
+            width={width}
+            mapData={mapData}
+            type='deaths'
+            graphColor='230, 48, 78'
         />
         : null
 
@@ -55,9 +66,14 @@ function Graphs () {
                 {chartGraph}
             </div>
             <div className='mt-20'>
-                <h1 className='text-xl text-gray-600 mx-auto text-center'> Incremento no número de casos / Dia</h1>
-                <h3 className='text-xs text-gray-500 mx-auto text-center'>Desde o primeiro caso</h3>
-                {incrementGraph}
+                <h1 className='text-xl text-blue-600 mx-auto text-center'>Incremento no número de casos confirmados / Dia</h1>
+                <h3 className='text-xs text-blue-400 mx-auto text-center'>Desde o primeiro caso</h3>
+                {incrementConfirmedGraph}
+            </div>
+            <div className='mt-20'>
+                <h1 className='text-xl text-red-600 mx-auto text-center'>Incremento no número de mortes / Dia</h1>
+                <h3 className='text-xs text-red-400 mx-auto text-center'>Desde a primeira morte</h3>
+                {incrementDeathMap}
             </div>
         </>
     )
