@@ -4,6 +4,8 @@ import 'moment/locale/pt-br';
 import Header from '../components/Header'
 import Graphs from '../components/Graphs'
 
+import GithubLogo from '../assets/GitHub-Mark-64px.png'
+
 function App() {
     return (
         <div className="grid min-h-screen" style={{placeItems: 'center'}}>
@@ -18,6 +20,14 @@ function App() {
                 <p className='text-xs font-semibold text-gray-800 text-center my-8'>
                     #FiqueEmCasa
                 </p>
+                <div className='w-10 h-10 mx-auto'>
+                    <a
+                        target='_blank'
+                        rel='noopener noreferrer'
+                        href="https://github.com/nkabz/brazil-corona-graphs"
+                    >
+                        <img className='hover:opacity-75 transition-opacity duration-200' src={GithubLogo} alt="Github"/></a>
+                </div>
             </div>
         </div>
     );

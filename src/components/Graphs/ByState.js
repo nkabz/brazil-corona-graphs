@@ -13,7 +13,7 @@ import { createStatePlotData } from '../../lib/csvLoader'
 
 export default function ByState({width, graphColor, type}) {
     const scatterData = createStatePlotData(type)
-    console.log(scatterData)
+
     return (
         <>
             <VictoryChart
