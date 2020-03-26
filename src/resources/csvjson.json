@@ -1,6 +1,1382 @@
 [
   {
+    "uid": 11,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 5,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "RO",
     "": "",
+    "__1": ""
+  },
+  {
+    "uid": 12,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 23,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "AC",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 13,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 54,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 1,
+    "uf": "AM",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 14,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 8,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "RR",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 15,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 7,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PA",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 16,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 1,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "AP",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 17,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 7,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "TO",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 21,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 8,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MA",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 22,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 8,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PI",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 23,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 200,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "CE",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 24,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 14,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "RN",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 25,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 3,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PB",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 26,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 46,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 1,
+    "uf": "PE",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 27,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 11,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "AL",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 28,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 16,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "SE",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 29,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 84,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "BA",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 31,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 133,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MG",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 32,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 39,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "ES",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 33,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 370,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 6,
+    "uf": "RJ",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 35,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 862,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 48,
+    "uf": "SP",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 41,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 81,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PR",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 42,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 123,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "SC",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 43,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 123,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 1,
+    "uf": "RS",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 50,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 24,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MS",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 51,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 8,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MT",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 52,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 29,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "GO",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 53,
+    "date": "2020-03-25",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 160,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "DF",
+    "": "",
+    "__1": "-"
+  },
+  {
+    "uid": 11,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 3,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "RO",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 12,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 17,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "AC",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 13,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 47,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "AM",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 14,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 2,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "RR",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 15,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 5,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PA",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 16,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 1,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "AP",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 17,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 7,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "TO",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 21,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 8,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MA",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 22,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 6,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PI",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 23,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 182,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "CE",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 24,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 13,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "RN",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 25,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 3,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PB",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 26,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 42,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PE",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 27,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 7,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "AL",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 28,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 15,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "SE",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 29,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 76,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "BA",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 31,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 130,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MG",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 32,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 33,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "ES",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 33,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 305,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 6,
+    "uf": "RJ",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 35,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 810,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 40,
+    "uf": "SP",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 41,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 65,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PR",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 42,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 107,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "SC",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 43,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 98,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "RS",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 50,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 23,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MS",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 51,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 7,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MT",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 52,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 27,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "GO",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 53,
+    "date": "2020-03-24",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 160,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "DF",
+    "": "",
+    "__1": "-"
+  },
+  {
+    "uid": 11,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 3,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "RO",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 12,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 11,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "AC",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 13,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 32,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "AM",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 14,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 2,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "RR",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 15,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 5,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PA",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 16,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 1,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "AP",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 17,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 5,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "TO",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 21,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 2,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MA",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 22,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 6,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PI",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 23,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 163,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "CE",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 24,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 13,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "RN",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 25,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 2,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PB",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 26,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 42,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PE",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 27,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 7,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "AL",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 28,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 10,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "SE",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 29,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 63,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "BA",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 31,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 128,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MG",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 32,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 29,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "ES",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 33,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 233,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 4,
+    "uf": "RJ",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 35,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 745,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 30,
+    "uf": "SP",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 41,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 56,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "PR",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 42,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 68,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "SC",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 43,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 86,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "RS",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 50,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 21,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MS",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 51,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 2,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "MT",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 52,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 23,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "GO",
+    "": "",
+    "__1": ""
+  },
+  {
+    "uid": 53,
+    "date": "2020-03-23",
+    "time": "",
+    "suspects": "",
+    "refuses": "",
+    "confirmado": "",
+    "deads": "",
+    "local": "",
+    "cases": 133,
+    "comments": "",
+    "broadcast": "",
+    "deaths": 0,
+    "uf": "DF",
+    "": "",
+    "__1": "-"
+  },
+  {
     "uid": 11,
     "date": "2020-03-22",
     "time": "",
@@ -14,10 +1390,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 12,
     "date": "2020-03-22",
     "time": "",
@@ -31,10 +1407,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 13,
     "date": "2020-03-22",
     "time": "",
@@ -48,10 +1424,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 14,
     "date": "2020-03-22",
     "time": "",
@@ -65,10 +1441,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "RR",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 15,
     "date": "2020-03-22",
     "time": "",
@@ -80,12 +1456,12 @@
     "cases": 4,
     "comments": "",
     "broadcast": "",
-    "deaths": 2,
+    "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 16,
     "date": "2020-03-22",
     "time": "",
@@ -99,10 +1475,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "AP",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 17,
     "date": "2020-03-22",
     "time": "",
@@ -116,10 +1492,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "TO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 21,
     "date": "2020-03-22",
     "time": "",
@@ -133,10 +1509,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 22,
     "date": "2020-03-22",
     "time": "",
@@ -150,10 +1526,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 23,
     "date": "2020-03-22",
     "time": "",
@@ -167,10 +1543,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 24,
     "date": "2020-03-22",
     "time": "",
@@ -184,10 +1560,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 25,
     "date": "2020-03-22",
     "time": "",
@@ -201,10 +1577,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 26,
     "date": "2020-03-22",
     "time": "",
@@ -218,10 +1594,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 27,
     "date": "2020-03-22",
     "time": "",
@@ -235,10 +1611,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 28,
     "date": "2020-03-22",
     "time": "",
@@ -252,10 +1628,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 29,
     "date": "2020-03-22",
     "time": "",
@@ -269,10 +1645,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 31,
     "date": "2020-03-22",
     "time": "",
@@ -286,10 +1662,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 32,
     "date": "2020-03-22",
     "time": "",
@@ -303,10 +1679,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 33,
     "date": "2020-03-22",
     "time": "",
@@ -320,10 +1696,10 @@
     "broadcast": "",
     "deaths": 3,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 35,
     "date": "2020-03-22",
     "time": "",
@@ -337,10 +1713,10 @@
     "broadcast": "",
     "deaths": 22,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 41,
     "date": "2020-03-22",
     "time": "",
@@ -354,10 +1730,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 42,
     "date": "2020-03-22",
     "time": "",
@@ -371,10 +1747,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 43,
     "date": "2020-03-22",
     "time": "",
@@ -388,10 +1764,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 50,
     "date": "2020-03-22",
     "time": "",
@@ -405,10 +1781,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 51,
     "date": "2020-03-22",
     "time": "",
@@ -422,10 +1798,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 52,
     "date": "2020-03-22",
     "time": "",
@@ -439,10 +1815,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 53,
     "date": "2020-03-22",
     "time": "",
@@ -456,10 +1832,10 @@
     "broadcast": "",
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 11,
     "date": "2020-03-21",
     "time": "",
@@ -469,14 +1845,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 12,
     "date": "2020-03-21",
     "time": "",
@@ -486,14 +1862,14 @@
     "deads": "",
     "local": "",
     "cases": 9,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 13,
     "date": "2020-03-21",
     "time": "",
@@ -503,14 +1879,14 @@
     "deads": "",
     "local": "",
     "cases": 11,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 14,
     "date": "2020-03-21",
     "time": "",
@@ -520,14 +1896,14 @@
     "deads": "",
     "local": "",
     "cases": 0,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RR",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 15,
     "date": "2020-03-21",
     "time": "",
@@ -537,14 +1913,14 @@
     "deads": "",
     "local": "",
     "cases": 2,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
-    "deaths": 2,
+    "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 16,
     "date": "2020-03-21",
     "time": "",
@@ -554,14 +1930,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AP",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 17,
     "date": "2020-03-21",
     "time": "",
@@ -571,14 +1947,14 @@
     "deads": "",
     "local": "",
     "cases": 2,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "TO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 21,
     "date": "2020-03-21",
     "time": "",
@@ -588,14 +1964,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 22,
     "date": "2020-03-21",
     "time": "",
@@ -605,14 +1981,14 @@
     "deads": "",
     "local": "",
     "cases": 4,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 23,
     "date": "2020-03-21",
     "time": "",
@@ -622,14 +1998,14 @@
     "deads": "",
     "local": "",
     "cases": 68,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 24,
     "date": "2020-03-21",
     "time": "",
@@ -639,14 +2015,14 @@
     "deads": "",
     "local": "",
     "cases": 6,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 25,
     "date": "2020-03-21",
     "time": "",
@@ -656,14 +2032,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 26,
     "date": "2020-03-21",
     "time": "",
@@ -673,14 +2049,14 @@
     "deads": "",
     "local": "",
     "cases": 30,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 27,
     "date": "2020-03-21",
     "time": "",
@@ -690,14 +2066,14 @@
     "deads": "",
     "local": "",
     "cases": 7,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 28,
     "date": "2020-03-21",
     "time": "",
@@ -707,14 +2083,14 @@
     "deads": "",
     "local": "",
     "cases": 10,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 29,
     "date": "2020-03-21",
     "time": "",
@@ -724,14 +2100,14 @@
     "deads": "",
     "local": "",
     "cases": 41,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 31,
     "date": "2020-03-21",
     "time": "",
@@ -741,14 +2117,14 @@
     "deads": "",
     "local": "",
     "cases": 38,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 32,
     "date": "2020-03-21",
     "time": "",
@@ -758,14 +2134,14 @@
     "deads": "",
     "local": "",
     "cases": 26,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 33,
     "date": "2020-03-21",
     "time": "",
@@ -775,14 +2151,14 @@
     "deads": "",
     "local": "",
     "cases": 119,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 3,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 35,
     "date": "2020-03-21",
     "time": "",
@@ -792,14 +2168,14 @@
     "deads": "",
     "local": "",
     "cases": 459,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 15,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 41,
     "date": "2020-03-21",
     "time": "",
@@ -809,14 +2185,14 @@
     "deads": "",
     "local": "",
     "cases": 43,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 42,
     "date": "2020-03-21",
     "time": "",
@@ -826,14 +2202,14 @@
     "deads": "",
     "local": "",
     "cases": 51,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 43,
     "date": "2020-03-21",
     "time": "",
@@ -843,14 +2219,14 @@
     "deads": "",
     "local": "",
     "cases": 60,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 50,
     "date": "2020-03-21",
     "time": "",
@@ -860,14 +2236,14 @@
     "deads": "",
     "local": "",
     "cases": 16,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 51,
     "date": "2020-03-21",
     "time": "",
@@ -877,14 +2253,14 @@
     "deads": "",
     "local": "",
     "cases": 2,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 52,
     "date": "2020-03-21",
     "time": "",
@@ -894,14 +2270,14 @@
     "deads": "",
     "local": "",
     "cases": 20,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 53,
     "date": "2020-03-21",
     "time": "",
@@ -911,14 +2287,14 @@
     "deads": "",
     "local": "",
     "cases": 100,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1dnjrp4SLP6BO_yt5EnFe7ZdwCy77wUurB4UgfNToHD4/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 11,
     "date": "2020-03-20",
     "time": "",
@@ -928,14 +2304,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 12,
     "date": "2020-03-20",
     "time": "",
@@ -945,14 +2321,14 @@
     "deads": "",
     "local": "",
     "cases": 7,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 13,
     "date": "2020-03-20",
     "time": "",
@@ -962,14 +2338,14 @@
     "deads": "",
     "local": "",
     "cases": 3,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 14,
     "date": "2020-03-20",
     "time": "",
@@ -979,14 +2355,14 @@
     "deads": "",
     "local": "",
     "cases": 0,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RR",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 15,
     "date": "2020-03-20",
     "time": "",
@@ -996,14 +2372,14 @@
     "deads": "",
     "local": "",
     "cases": 2,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 16,
     "date": "2020-03-20",
     "time": "",
@@ -1013,14 +2389,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AP",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 17,
     "date": "2020-03-20",
     "time": "",
@@ -1030,14 +2406,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "TO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 21,
     "date": "2020-03-20",
     "time": "",
@@ -1047,14 +2423,14 @@
     "deads": "",
     "local": "",
     "cases": 0,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 22,
     "date": "2020-03-20",
     "time": "",
@@ -1064,14 +2440,14 @@
     "deads": "",
     "local": "",
     "cases": 3,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 23,
     "date": "2020-03-20",
     "time": "",
@@ -1081,14 +2457,14 @@
     "deads": "",
     "local": "",
     "cases": 55,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 24,
     "date": "2020-03-20",
     "time": "",
@@ -1098,14 +2474,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 25,
     "date": "2020-03-20",
     "time": "",
@@ -1115,14 +2491,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 26,
     "date": "2020-03-20",
     "time": "",
@@ -1132,14 +2508,14 @@
     "deads": "",
     "local": "",
     "cases": 30,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 27,
     "date": "2020-03-20",
     "time": "",
@@ -1149,14 +2525,14 @@
     "deads": "",
     "local": "",
     "cases": 5,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 28,
     "date": "2020-03-20",
     "time": "",
@@ -1166,14 +2542,14 @@
     "deads": "",
     "local": "",
     "cases": 6,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 29,
     "date": "2020-03-20",
     "time": "",
@@ -1183,14 +2559,14 @@
     "deads": "",
     "local": "",
     "cases": 33,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 31,
     "date": "2020-03-20",
     "time": "",
@@ -1200,14 +2576,14 @@
     "deads": "",
     "local": "",
     "cases": 35,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 32,
     "date": "2020-03-20",
     "time": "",
@@ -1217,14 +2593,14 @@
     "deads": "",
     "local": "",
     "cases": 13,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 33,
     "date": "2020-03-20",
     "time": "",
@@ -1234,14 +2610,14 @@
     "deads": "",
     "local": "",
     "cases": 109,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 2,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 35,
     "date": "2020-03-20",
     "time": "",
@@ -1251,14 +2627,14 @@
     "deads": "",
     "local": "",
     "cases": 396,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 9,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 41,
     "date": "2020-03-20",
     "time": "",
@@ -1268,14 +2644,14 @@
     "deads": "",
     "local": "",
     "cases": 32,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 42,
     "date": "2020-03-20",
     "time": "",
@@ -1285,14 +2661,14 @@
     "deads": "",
     "local": "",
     "cases": 21,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 43,
     "date": "2020-03-20",
     "time": "",
@@ -1302,14 +2678,14 @@
     "deads": "",
     "local": "",
     "cases": 37,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 50,
     "date": "2020-03-20",
     "time": "",
@@ -1319,14 +2695,14 @@
     "deads": "",
     "local": "",
     "cases": 9,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 51,
     "date": "2020-03-20",
     "time": "",
@@ -1336,14 +2712,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 52,
     "date": "2020-03-20",
     "time": "",
@@ -1353,14 +2729,14 @@
     "deads": "",
     "local": "",
     "cases": 15,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 53,
     "date": "2020-03-20",
     "time": "",
@@ -1370,14 +2746,14 @@
     "deads": "",
     "local": "",
     "cases": 87,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1-aSmAbF-O6y6pYkBkykJVEXKKLUh2sfRBgEuAOzICs0/edit#slide=id.g719333807c_0_55",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 11,
     "date": "2020-03-19",
     "time": "",
@@ -1387,14 +2763,14 @@
     "deads": "",
     "local": "",
     "cases": 0,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 12,
     "date": "2020-03-19",
     "time": "",
@@ -1404,14 +2780,14 @@
     "deads": "",
     "local": "",
     "cases": 3,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 13,
     "date": "2020-03-19",
     "time": "",
@@ -1421,14 +2797,14 @@
     "deads": "",
     "local": "",
     "cases": 3,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 14,
     "date": "2020-03-19",
     "time": "",
@@ -1438,14 +2814,14 @@
     "deads": "",
     "local": "",
     "cases": 0,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RR",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 15,
     "date": "2020-03-19",
     "time": "",
@@ -1455,14 +2831,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 16,
     "date": "2020-03-19",
     "time": "",
@@ -1472,14 +2848,14 @@
     "deads": "",
     "local": "",
     "cases": 0,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AP",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 17,
     "date": "2020-03-19",
     "time": "",
@@ -1489,14 +2865,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "TO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 21,
     "date": "2020-03-19",
     "time": "",
@@ -1506,14 +2882,14 @@
     "deads": "",
     "local": "",
     "cases": 0,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 22,
     "date": "2020-03-19",
     "time": "",
@@ -1523,14 +2899,14 @@
     "deads": "",
     "local": "",
     "cases": 0,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 23,
     "date": "2020-03-19",
     "time": "",
@@ -1540,14 +2916,14 @@
     "deads": "",
     "local": "",
     "cases": 20,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 24,
     "date": "2020-03-19",
     "time": "",
@@ -1557,14 +2933,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 25,
     "date": "2020-03-19",
     "time": "",
@@ -1574,14 +2950,14 @@
     "deads": "",
     "local": "",
     "cases": 1,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 26,
     "date": "2020-03-19",
     "time": "",
@@ -1591,14 +2967,14 @@
     "deads": "",
     "local": "",
     "cases": 28,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 27,
     "date": "2020-03-19",
     "time": "",
@@ -1608,14 +2984,14 @@
     "deads": "",
     "local": "",
     "cases": 4,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 28,
     "date": "2020-03-19",
     "time": "",
@@ -1625,14 +3001,14 @@
     "deads": "",
     "local": "",
     "cases": 6,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 29,
     "date": "2020-03-19",
     "time": "",
@@ -1642,14 +3018,14 @@
     "deads": "",
     "local": "",
     "cases": 30,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 31,
     "date": "2020-03-19",
     "time": "",
@@ -1659,14 +3035,14 @@
     "deads": "",
     "local": "",
     "cases": 29,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 32,
     "date": "2020-03-19",
     "time": "",
@@ -1676,14 +3052,14 @@
     "deads": "",
     "local": "",
     "cases": 11,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 33,
     "date": "2020-03-19",
     "time": "",
@@ -1693,14 +3069,14 @@
     "deads": "",
     "local": "",
     "cases": 65,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 2,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 35,
     "date": "2020-03-19",
     "time": "",
@@ -1710,14 +3086,14 @@
     "deads": "",
     "local": "",
     "cases": 286,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 4,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 41,
     "date": "2020-03-19",
     "time": "",
@@ -1727,14 +3103,14 @@
     "deads": "",
     "local": "",
     "cases": 23,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 42,
     "date": "2020-03-19",
     "time": "",
@@ -1744,14 +3120,14 @@
     "deads": "",
     "local": "",
     "cases": 20,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 43,
     "date": "2020-03-19",
     "time": "",
@@ -1761,14 +3137,14 @@
     "deads": "",
     "local": "",
     "cases": 28,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 50,
     "date": "2020-03-19",
     "time": "",
@@ -1778,14 +3154,14 @@
     "deads": "",
     "local": "",
     "cases": 7,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 51,
     "date": "2020-03-19",
     "time": "",
@@ -1795,14 +3171,14 @@
     "deads": "",
     "local": "",
     "cases": 0,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 52,
     "date": "2020-03-19",
     "time": "",
@@ -1812,14 +3188,14 @@
     "deads": "",
     "local": "",
     "cases": 12,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": "",
     "uid": 53,
     "date": "2020-03-19",
     "time": "",
@@ -1829,14 +3205,14 @@
     "deads": "",
     "local": "",
     "cases": 42,
-    "comments": "Fonte: https://docs.google.com/presentation/d/1l9xOfneNXAtApaG45AFhhY4hqd0VuJz13zIsnsEx4gM/edit#slide=id.g7f32634334_346_0",
+    "comments": "",
     "broadcast": "",
     "deaths": 0,
     "uf": "DF",
-    "__1": "-"
+    "": "-",
+    "__1": ""
   },
   {
-    "": 12,
     "uid": 11,
     "date": "2020-03-18",
     "time": "20:00",
@@ -1846,14 +3222,14 @@
     "deads": 0,
     "local": 0,
     "cases": 0,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 21,
     "uid": 12,
     "date": "2020-03-18",
     "time": "20:00",
@@ -1863,14 +3239,14 @@
     "deads": 0,
     "local": 0,
     "cases": 0,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": 40,
     "uid": 13,
     "date": "2020-03-18",
     "time": "20:00",
@@ -1880,14 +3256,14 @@
     "deads": 0,
     "local": 0,
     "cases": 1,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 42,
     "uid": 14,
     "date": "2020-03-18",
     "time": "20:00",
@@ -1897,14 +3273,14 @@
     "deads": 0,
     "local": 0,
     "cases": 0,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "RR",
+    "": "",
     "__1": ""
   },
   {
-    "": 46,
     "uid": 15,
     "date": "2020-03-18",
     "time": "20:00",
@@ -1914,14 +3290,14 @@
     "deads": 0,
     "local": 0,
     "cases": 0,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 62,
     "uid": 16,
     "date": "2020-03-18",
     "time": "20:00",
@@ -1931,14 +3307,14 @@
     "deads": 0,
     "local": 0,
     "cases": 0,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "AP",
+    "": "",
     "__1": ""
   },
   {
-    "": 71,
     "uid": 17,
     "date": "2020-03-18",
     "time": "20:00",
@@ -1948,14 +3324,14 @@
     "deads": 0,
     "local": 0,
     "cases": 0,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "TO",
+    "": "",
     "__1": ""
   },
   {
-    "": 85,
     "uid": 21,
     "date": "2020-03-18",
     "time": "20:00",
@@ -1965,14 +3341,14 @@
     "deads": 0,
     "local": 0,
     "cases": 0,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 101,
     "uid": 22,
     "date": "2020-03-18",
     "time": "20:00",
@@ -1982,14 +3358,14 @@
     "deads": 0,
     "local": 0,
     "cases": 0,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 136,
     "uid": 23,
     "date": "2020-03-18",
     "time": "20:00",
@@ -1999,14 +3375,14 @@
     "deads": 0,
     "local": 0,
     "cases": 9,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 159,
     "uid": 24,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2016,14 +3392,14 @@
     "deads": 0,
     "local": 0,
     "cases": 1,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 186,
     "uid": 25,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2033,14 +3409,14 @@
     "deads": 0,
     "local": 0,
     "cases": 0,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 213,
     "uid": 26,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2050,14 +3426,14 @@
     "deads": 0,
     "local": 0,
     "cases": 16,
-    "comments": 0,
+    "comments": "",
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 227,
     "uid": 27,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2071,10 +3447,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 238,
     "uid": 28,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2088,10 +3464,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 266,
     "uid": 29,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2105,10 +3481,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 301,
     "uid": 31,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2122,10 +3498,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 340,
     "uid": 32,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2139,10 +3515,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 364,
     "uid": 33,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2156,10 +3532,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 422,
     "uid": 35,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2173,10 +3549,10 @@
     "broadcast": "TRUE",
     "deaths": 4,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 457,
     "uid": 41,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2190,10 +3566,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 543,
     "uid": 42,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2207,10 +3583,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 591,
     "uid": 43,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2224,10 +3600,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 595,
     "uid": 50,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2241,10 +3617,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 629,
     "uid": 51,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2258,10 +3634,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 642,
     "uid": 52,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2275,10 +3651,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 664,
     "uid": 53,
     "date": "2020-03-18",
     "time": "20:00",
@@ -2292,10 +3668,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 5,
     "uid": 11,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2309,10 +3685,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 22,
     "uid": 12,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2326,10 +3702,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": 27,
     "uid": 13,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2343,10 +3719,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 43,
     "uid": 14,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2360,10 +3736,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RR",
+    "": "",
     "__1": ""
   },
   {
-    "": 56,
     "uid": 15,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2377,10 +3753,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 65,
     "uid": 16,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2394,10 +3770,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AP",
+    "": "",
     "__1": ""
   },
   {
-    "": 66,
     "uid": 17,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2411,10 +3787,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "TO",
+    "": "",
     "__1": ""
   },
   {
-    "": 75,
     "uid": 21,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2428,10 +3804,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 97,
     "uid": 22,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2445,10 +3821,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 141,
     "uid": 23,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2462,10 +3838,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 165,
     "uid": 24,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2479,10 +3855,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 191,
     "uid": 25,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2496,10 +3872,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 199,
     "uid": 26,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2513,10 +3889,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 234,
     "uid": 27,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2530,10 +3906,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 250,
     "uid": 28,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2547,10 +3923,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 254,
     "uid": 29,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2564,10 +3940,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 290,
     "uid": 31,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2581,10 +3957,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 341,
     "uid": 32,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2598,10 +3974,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 352,
     "uid": 33,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2615,10 +3991,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 410,
     "uid": 35,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2632,10 +4008,10 @@
     "broadcast": "TRUE",
     "deaths": 1,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 482,
     "uid": 41,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2649,10 +4025,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 521,
     "uid": 42,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2666,10 +4042,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 546,
     "uid": 43,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2683,10 +4059,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 594,
     "uid": 50,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2700,10 +4076,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 619,
     "uid": 51,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2717,10 +4093,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 638,
     "uid": 52,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2734,10 +4110,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 655,
     "uid": 53,
     "date": "2020-03-17",
     "time": "18:10",
@@ -2751,10 +4127,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 11,
     "uid": 11,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2768,10 +4144,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 23,
     "uid": 12,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2785,10 +4161,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": 37,
     "uid": 13,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2802,10 +4178,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 44,
     "uid": 14,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2819,10 +4195,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RR",
+    "": "",
     "__1": ""
   },
   {
-    "": 60,
     "uid": 15,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2836,10 +4212,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 63,
     "uid": 16,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2853,10 +4229,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AP",
+    "": "",
     "__1": ""
   },
   {
-    "": 68,
     "uid": 17,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2870,10 +4246,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "TO",
+    "": "",
     "__1": ""
   },
   {
-    "": 77,
     "uid": 21,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2887,10 +4263,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 98,
     "uid": 22,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2904,10 +4280,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 139,
     "uid": 23,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2921,10 +4297,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 164,
     "uid": 24,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2938,10 +4314,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 182,
     "uid": 25,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2955,10 +4331,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 195,
     "uid": 26,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2972,10 +4348,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 219,
     "uid": 27,
     "date": "2020-03-16",
     "time": "15:50",
@@ -2989,10 +4365,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 240,
     "uid": 28,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3006,10 +4382,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 265,
     "uid": 29,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3023,10 +4399,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 287,
     "uid": 31,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3040,10 +4416,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 335,
     "uid": 32,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3057,10 +4433,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 374,
     "uid": 33,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3074,10 +4450,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 437,
     "uid": 35,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3091,10 +4467,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 477,
     "uid": 41,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3108,10 +4484,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 507,
     "uid": 42,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3125,10 +4501,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 579,
     "uid": 43,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3142,10 +4518,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 602,
     "uid": 50,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3159,10 +4535,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 624,
     "uid": 51,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3176,10 +4552,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 635,
     "uid": 52,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3193,10 +4569,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 656,
     "uid": 53,
     "date": "2020-03-16",
     "time": "15:50",
@@ -3210,10 +4586,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 6,
     "uid": 11,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3227,10 +4603,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 24,
     "uid": 12,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3244,10 +4620,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": 36,
     "uid": 13,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3261,10 +4637,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 45,
     "uid": 14,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3278,10 +4654,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RR",
+    "": "",
     "__1": ""
   },
   {
-    "": 47,
     "uid": 15,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3295,10 +4671,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 64,
     "uid": 16,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3312,10 +4688,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AP",
+    "": "",
     "__1": ""
   },
   {
-    "": 67,
     "uid": 17,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3329,10 +4705,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "TO",
+    "": "",
     "__1": ""
   },
   {
-    "": 72,
     "uid": 21,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3346,10 +4722,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 91,
     "uid": 22,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3363,10 +4739,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 142,
     "uid": 23,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3380,10 +4756,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 157,
     "uid": 24,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3397,10 +4773,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 190,
     "uid": 25,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3414,10 +4790,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 209,
     "uid": 26,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3431,10 +4807,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 218,
     "uid": 27,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3448,10 +4824,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 241,
     "uid": 28,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3465,10 +4841,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 270,
     "uid": 29,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3482,10 +4858,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 316,
     "uid": 31,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3499,10 +4875,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 330,
     "uid": 32,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3516,10 +4892,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 387,
     "uid": 33,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3533,10 +4909,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 423,
     "uid": 35,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3550,10 +4926,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 480,
     "uid": 41,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3567,10 +4943,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 520,
     "uid": 42,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3584,10 +4960,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 578,
     "uid": 43,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3601,10 +4977,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 613,
     "uid": 50,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3618,10 +4994,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 627,
     "uid": 51,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3635,10 +5011,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 648,
     "uid": 52,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3652,10 +5028,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 670,
     "uid": 53,
     "date": "2020-03-15",
     "time": "19:15",
@@ -3669,10 +5045,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 10,
     "uid": 11,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3686,10 +5062,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 19,
     "uid": 12,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3703,10 +5079,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": 39,
     "uid": 13,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3720,10 +5096,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 50,
     "uid": 15,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3737,10 +5113,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 69,
     "uid": 17,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3754,10 +5130,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "TO",
+    "": "",
     "__1": ""
   },
   {
-    "": 80,
     "uid": 21,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3771,10 +5147,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 102,
     "uid": 22,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3788,10 +5164,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 150,
     "uid": 23,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3805,10 +5181,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 155,
     "uid": 24,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3822,10 +5198,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 179,
     "uid": 25,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3839,10 +5215,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 201,
     "uid": 26,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3856,10 +5232,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 228,
     "uid": 27,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3873,10 +5249,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 246,
     "uid": 28,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3890,10 +5266,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 256,
     "uid": 29,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3907,10 +5283,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 315,
     "uid": 31,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3924,10 +5300,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 323,
     "uid": 32,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3941,10 +5317,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 377,
     "uid": 33,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3958,10 +5334,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 407,
     "uid": 35,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3975,10 +5351,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 483,
     "uid": 41,
     "date": "2020-03-14",
     "time": "16:25",
@@ -3992,10 +5368,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 496,
     "uid": 42,
     "date": "2020-03-14",
     "time": "16:25",
@@ -4009,10 +5385,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 565,
     "uid": 43,
     "date": "2020-03-14",
     "time": "16:25",
@@ -4026,10 +5402,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 610,
     "uid": 50,
     "date": "2020-03-14",
     "time": "16:25",
@@ -4043,10 +5419,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 623,
     "uid": 51,
     "date": "2020-03-14",
     "time": "16:25",
@@ -4060,10 +5436,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 645,
     "uid": 52,
     "date": "2020-03-14",
     "time": "16:25",
@@ -4077,10 +5453,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 661,
     "uid": 53,
     "date": "2020-03-14",
     "time": "16:25",
@@ -4094,10 +5470,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 9,
     "uid": 11,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4111,10 +5487,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 20,
     "uid": 12,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4128,10 +5504,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": 29,
     "uid": 13,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4145,10 +5521,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 61,
     "uid": 15,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4162,10 +5538,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 70,
     "uid": 17,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4179,10 +5555,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "TO",
+    "": "",
     "__1": ""
   },
   {
-    "": 76,
     "uid": 21,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4196,10 +5572,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 93,
     "uid": 22,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4213,10 +5589,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 131,
     "uid": 23,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4230,10 +5606,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 154,
     "uid": 24,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4247,10 +5623,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 174,
     "uid": 25,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4264,10 +5640,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 200,
     "uid": 26,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4281,10 +5657,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 222,
     "uid": 27,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4298,10 +5674,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 244,
     "uid": 28,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4315,10 +5691,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 261,
     "uid": 29,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4332,10 +5708,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 289,
     "uid": 31,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4349,10 +5725,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 338,
     "uid": 32,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4366,10 +5742,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 367,
     "uid": 33,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4383,10 +5759,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 426,
     "uid": 35,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4400,10 +5776,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 471,
     "uid": 41,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4417,10 +5793,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 524,
     "uid": 42,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4434,10 +5810,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 555,
     "uid": 43,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4451,10 +5827,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 596,
     "uid": 50,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4468,10 +5844,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 628,
     "uid": 51,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4485,10 +5861,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 632,
     "uid": 52,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4502,10 +5878,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 663,
     "uid": 53,
     "date": "2020-03-13",
     "time": "15:45",
@@ -4519,10 +5895,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 1,
     "uid": 11,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4536,10 +5912,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 17,
     "uid": 12,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4553,10 +5929,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": 30,
     "uid": 13,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4570,10 +5946,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 57,
     "uid": 15,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4587,10 +5963,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 73,
     "uid": 21,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4604,10 +5980,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 103,
     "uid": 22,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4621,10 +5997,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 123,
     "uid": 23,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4638,10 +6014,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 160,
     "uid": 24,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4655,10 +6031,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 175,
     "uid": 25,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4672,10 +6048,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 202,
     "uid": 26,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4689,10 +6065,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 230,
     "uid": 27,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4706,10 +6082,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 237,
     "uid": 28,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4723,10 +6099,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 257,
     "uid": 29,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4740,10 +6116,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 304,
     "uid": 31,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4757,10 +6133,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 336,
     "uid": 32,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4774,10 +6150,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 389,
     "uid": 33,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4791,10 +6167,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 427,
     "uid": 35,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4808,10 +6184,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 484,
     "uid": 41,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4825,10 +6201,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 539,
     "uid": 42,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4842,10 +6218,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 561,
     "uid": 43,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4859,10 +6235,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 606,
     "uid": 50,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4876,10 +6252,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 621,
     "uid": 51,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4893,10 +6269,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 649,
     "uid": 52,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4910,10 +6286,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 674,
     "uid": 53,
     "date": "2020-03-12",
     "time": "16:20",
@@ -4927,10 +6303,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 8,
     "uid": 11,
     "date": "2020-03-11",
     "time": "16:45",
@@ -4944,10 +6320,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 18,
     "uid": 12,
     "date": "2020-03-11",
     "time": "16:45",
@@ -4961,10 +6337,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": 28,
     "uid": 13,
     "date": "2020-03-11",
     "time": "16:45",
@@ -4978,10 +6354,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 59,
     "uid": 15,
     "date": "2020-03-11",
     "time": "16:45",
@@ -4995,10 +6371,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 86,
     "uid": 21,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5012,10 +6388,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 95,
     "uid": 22,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5029,10 +6405,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 106,
     "uid": 23,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5046,10 +6422,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 161,
     "uid": 24,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5063,10 +6439,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 192,
     "uid": 25,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5080,10 +6456,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 205,
     "uid": 26,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5097,10 +6473,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 225,
     "uid": 27,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5114,10 +6490,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 245,
     "uid": 28,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5131,10 +6507,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 268,
     "uid": 29,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5148,10 +6524,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 280,
     "uid": 31,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5165,10 +6541,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 339,
     "uid": 32,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5182,10 +6558,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 373,
     "uid": 33,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5199,10 +6575,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 441,
     "uid": 35,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5216,10 +6592,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 473,
     "uid": 41,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5233,10 +6609,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 527,
     "uid": 42,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5250,10 +6626,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 560,
     "uid": 43,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5267,10 +6643,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 612,
     "uid": 50,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5284,10 +6660,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 618,
     "uid": 51,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5301,10 +6677,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 636,
     "uid": 52,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5318,10 +6694,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 673,
     "uid": 53,
     "date": "2020-03-11",
     "time": "16:45",
@@ -5335,10 +6711,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 3,
     "uid": 11,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5352,10 +6728,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 25,
     "uid": 12,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5369,10 +6745,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AC",
+    "": "",
     "__1": ""
   },
   {
-    "": 31,
     "uid": 13,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5386,10 +6762,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 53,
     "uid": 15,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5403,10 +6779,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 81,
     "uid": 21,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5420,10 +6796,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 99,
     "uid": 22,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5437,10 +6813,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 109,
     "uid": 23,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5454,10 +6830,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 163,
     "uid": 24,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5471,10 +6847,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 188,
     "uid": 25,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5488,10 +6864,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 203,
     "uid": 26,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5505,10 +6881,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 221,
     "uid": 27,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5522,10 +6898,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 251,
     "uid": 28,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5539,10 +6915,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 262,
     "uid": 29,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5556,10 +6932,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 312,
     "uid": 31,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5573,10 +6949,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 329,
     "uid": 32,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5590,10 +6966,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 375,
     "uid": 33,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5607,10 +6983,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 419,
     "uid": 35,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5624,10 +7000,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 478,
     "uid": 41,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5641,10 +7017,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 540,
     "uid": 42,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5658,10 +7034,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 586,
     "uid": 43,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5675,10 +7051,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 605,
     "uid": 50,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5692,10 +7068,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 614,
     "uid": 51,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5709,10 +7085,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 647,
     "uid": 52,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5726,10 +7102,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 677,
     "uid": 53,
     "date": "2020-03-10",
     "time": "16:05",
@@ -5743,10 +7119,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 15,
     "uid": 11,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5760,10 +7136,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 41,
     "uid": 13,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5777,10 +7153,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 54,
     "uid": 15,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5794,10 +7170,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 84,
     "uid": 21,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5811,10 +7187,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 96,
     "uid": 22,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5828,10 +7204,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 145,
     "uid": 23,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5845,10 +7221,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 172,
     "uid": 24,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5862,10 +7238,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 184,
     "uid": 25,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5879,10 +7255,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 207,
     "uid": 26,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5896,10 +7272,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 235,
     "uid": 27,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5913,10 +7289,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 242,
     "uid": 28,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5930,10 +7306,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 252,
     "uid": 29,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5947,10 +7323,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 300,
     "uid": 31,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5964,10 +7340,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 331,
     "uid": 32,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5981,10 +7357,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 393,
     "uid": 33,
     "date": "2020-03-08",
     "time": "17:30",
@@ -5998,10 +7374,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 436,
     "uid": 35,
     "date": "2020-03-08",
     "time": "17:30",
@@ -6015,10 +7391,10 @@
     "broadcast": "TRUE",
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 492,
     "uid": 41,
     "date": "2020-03-08",
     "time": "17:30",
@@ -6032,10 +7408,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 535,
     "uid": 42,
     "date": "2020-03-08",
     "time": "17:30",
@@ -6049,10 +7425,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 567,
     "uid": 43,
     "date": "2020-03-08",
     "time": "17:30",
@@ -6066,10 +7442,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 600,
     "uid": 50,
     "date": "2020-03-08",
     "time": "17:30",
@@ -6083,10 +7459,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 626,
     "uid": 51,
     "date": "2020-03-08",
     "time": "17:30",
@@ -6100,10 +7476,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 639,
     "uid": 52,
     "date": "2020-03-08",
     "time": "17:30",
@@ -6117,10 +7493,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 682,
     "uid": 53,
     "date": "2020-03-08",
     "time": "17:30",
@@ -6134,10 +7510,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 2,
     "uid": 11,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6151,10 +7527,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 35,
     "uid": 13,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6168,10 +7544,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 58,
     "uid": 15,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6185,10 +7561,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 78,
     "uid": 21,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6202,10 +7578,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 88,
     "uid": 22,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6219,10 +7595,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 124,
     "uid": 23,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6236,10 +7612,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 156,
     "uid": 24,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6253,10 +7629,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 177,
     "uid": 25,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6270,10 +7646,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 208,
     "uid": 26,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6287,10 +7663,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 224,
     "uid": 27,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6304,10 +7680,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 236,
     "uid": 28,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6321,10 +7697,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 263,
     "uid": 29,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6338,10 +7714,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 319,
     "uid": 31,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6355,10 +7731,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 333,
     "uid": 32,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6372,10 +7748,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 380,
     "uid": 33,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6389,10 +7765,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 397,
     "uid": 35,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6406,10 +7782,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 458,
     "uid": 41,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6423,10 +7799,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 522,
     "uid": 42,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6440,10 +7816,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 558,
     "uid": 43,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6457,10 +7833,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 599,
     "uid": 50,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6474,10 +7850,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 625,
     "uid": 51,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6491,10 +7867,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 643,
     "uid": 52,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6508,10 +7884,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 680,
     "uid": 53,
     "date": "2020-03-07",
     "time": "18:35",
@@ -6525,10 +7901,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 7,
     "uid": 11,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6542,10 +7918,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 34,
     "uid": 13,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6559,10 +7935,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 52,
     "uid": 15,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6576,10 +7952,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 79,
     "uid": 21,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6593,10 +7969,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 100,
     "uid": 22,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6610,10 +7986,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 152,
     "uid": 23,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6627,10 +8003,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 173,
     "uid": 24,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6644,10 +8020,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 194,
     "uid": 25,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6661,10 +8037,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 197,
     "uid": 26,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6678,10 +8054,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 216,
     "uid": 27,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6695,10 +8071,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 249,
     "uid": 28,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6712,10 +8088,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 260,
     "uid": 29,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6729,10 +8105,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 294,
     "uid": 31,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6746,10 +8122,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 343,
     "uid": 32,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6763,10 +8139,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 371,
     "uid": 33,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6780,10 +8156,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 395,
     "uid": 35,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6797,10 +8173,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 461,
     "uid": 41,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6814,10 +8190,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 499,
     "uid": 42,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6831,10 +8207,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 548,
     "uid": 43,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6848,10 +8224,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 604,
     "uid": 50,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6865,10 +8241,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 615,
     "uid": 51,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6882,10 +8258,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 634,
     "uid": 52,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6899,10 +8275,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 684,
     "uid": 53,
     "date": "2020-03-06",
     "time": "16:00",
@@ -6916,10 +8292,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 16,
     "uid": 11,
     "date": "2020-03-05",
     "time": "16:00",
@@ -6933,10 +8309,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 26,
     "uid": 13,
     "date": "2020-03-05",
     "time": "16:00",
@@ -6950,10 +8326,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 51,
     "uid": 15,
     "date": "2020-03-05",
     "time": "16:00",
@@ -6967,10 +8343,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 82,
     "uid": 21,
     "date": "2020-03-05",
     "time": "16:00",
@@ -6984,10 +8360,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 94,
     "uid": 22,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7001,10 +8377,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 146,
     "uid": 23,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7018,10 +8394,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 170,
     "uid": 24,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7035,10 +8411,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 189,
     "uid": 25,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7052,10 +8428,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 204,
     "uid": 26,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7069,10 +8445,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 233,
     "uid": 27,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7086,10 +8462,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 247,
     "uid": 28,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7103,10 +8479,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 255,
     "uid": 29,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7120,10 +8496,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 284,
     "uid": 31,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7137,10 +8513,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 337,
     "uid": 32,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7154,10 +8530,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 344,
     "uid": 33,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7171,10 +8547,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 406,
     "uid": 35,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7188,10 +8564,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 448,
     "uid": 41,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7205,10 +8581,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 519,
     "uid": 42,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7222,10 +8598,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 574,
     "uid": 43,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7239,10 +8615,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 598,
     "uid": 50,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7256,10 +8632,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 616,
     "uid": 51,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7273,10 +8649,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 641,
     "uid": 52,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7290,10 +8666,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 678,
     "uid": 53,
     "date": "2020-03-05",
     "time": "16:00",
@@ -7307,10 +8683,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 4,
     "uid": 11,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7324,10 +8700,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 32,
     "uid": 13,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7341,10 +8717,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 49,
     "uid": 15,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7358,10 +8734,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 74,
     "uid": 21,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7375,10 +8751,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 92,
     "uid": 22,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7392,10 +8768,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 134,
     "uid": 23,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7409,10 +8785,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 158,
     "uid": 24,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7426,10 +8802,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 181,
     "uid": 25,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7443,10 +8819,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 214,
     "uid": 26,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7460,10 +8836,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 226,
     "uid": 27,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7477,10 +8853,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 239,
     "uid": 28,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7494,10 +8870,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 272,
     "uid": 29,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7511,10 +8887,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 303,
     "uid": 31,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7528,10 +8904,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 342,
     "uid": 32,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7545,10 +8921,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 366,
     "uid": 33,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7562,10 +8938,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 398,
     "uid": 35,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7579,10 +8955,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 454,
     "uid": 41,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7596,10 +8972,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 510,
     "uid": 42,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7613,10 +8989,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 590,
     "uid": 43,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7630,10 +9006,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 601,
     "uid": 50,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7647,10 +9023,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 622,
     "uid": 51,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7664,10 +9040,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 640,
     "uid": 52,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7681,10 +9057,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 660,
     "uid": 53,
     "date": "2020-03-04",
     "time": "17:15",
@@ -7698,10 +9074,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 14,
     "uid": 11,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7715,10 +9091,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 38,
     "uid": 13,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7732,10 +9108,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 55,
     "uid": 15,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7749,10 +9125,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 87,
     "uid": 21,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7766,10 +9142,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 90,
     "uid": 22,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7783,10 +9159,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 111,
     "uid": 23,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7800,10 +9176,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 168,
     "uid": 24,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7817,10 +9193,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 185,
     "uid": 25,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7834,10 +9210,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 215,
     "uid": 26,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7851,10 +9227,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 220,
     "uid": 27,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7868,10 +9244,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 243,
     "uid": 28,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7885,10 +9261,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 269,
     "uid": 29,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7902,10 +9278,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 279,
     "uid": 31,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7919,10 +9295,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 326,
     "uid": 32,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7936,10 +9312,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 355,
     "uid": 33,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7953,10 +9329,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 430,
     "uid": 35,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7970,10 +9346,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 487,
     "uid": 41,
     "date": "2020-03-03",
     "time": "15:50",
@@ -7987,10 +9363,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 536,
     "uid": 42,
     "date": "2020-03-03",
     "time": "15:50",
@@ -8004,10 +9380,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 570,
     "uid": 43,
     "date": "2020-03-03",
     "time": "15:50",
@@ -8021,10 +9397,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 603,
     "uid": 50,
     "date": "2020-03-03",
     "time": "15:50",
@@ -8038,10 +9414,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 617,
     "uid": 51,
     "date": "2020-03-03",
     "time": "15:50",
@@ -8055,10 +9431,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 644,
     "uid": 52,
     "date": "2020-03-03",
     "time": "15:50",
@@ -8072,10 +9448,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 683,
     "uid": 53,
     "date": "2020-03-03",
     "time": "15:50",
@@ -8089,10 +9465,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 13,
     "uid": 11,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8106,10 +9482,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RO",
+    "": "",
     "__1": ""
   },
   {
-    "": 33,
     "uid": 13,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8123,10 +9499,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AM",
+    "": "",
     "__1": ""
   },
   {
-    "": 48,
     "uid": 15,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8140,10 +9516,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PA",
+    "": "",
     "__1": ""
   },
   {
-    "": 83,
     "uid": 21,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8157,10 +9533,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MA",
+    "": "",
     "__1": ""
   },
   {
-    "": 89,
     "uid": 22,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8174,10 +9550,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PI",
+    "": "",
     "__1": ""
   },
   {
-    "": 148,
     "uid": 23,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8191,10 +9567,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 171,
     "uid": 24,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8208,10 +9584,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 180,
     "uid": 25,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8225,10 +9601,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 198,
     "uid": 26,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8242,10 +9618,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 232,
     "uid": 27,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8259,10 +9635,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 248,
     "uid": 28,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8276,10 +9652,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SE",
+    "": "",
     "__1": ""
   },
   {
-    "": 258,
     "uid": 29,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8293,10 +9669,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 296,
     "uid": 31,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8310,10 +9686,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 334,
     "uid": 32,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8327,10 +9703,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 385,
     "uid": 33,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8344,10 +9720,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 433,
     "uid": 35,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8361,10 +9737,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 464,
     "uid": 41,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8378,10 +9754,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 541,
     "uid": 42,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8395,10 +9771,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 589,
     "uid": 43,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8412,10 +9788,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 607,
     "uid": 50,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8429,10 +9805,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 620,
     "uid": 51,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8446,10 +9822,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MT",
+    "": "",
     "__1": ""
   },
   {
-    "": 631,
     "uid": 52,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8463,10 +9839,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 681,
     "uid": 53,
     "date": "2020-03-02",
     "time": "16:30",
@@ -8480,10 +9856,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 122,
     "uid": 23,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8497,10 +9873,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 166,
     "uid": 24,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8514,10 +9890,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 176,
     "uid": 25,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8531,10 +9907,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 210,
     "uid": 26,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8548,10 +9924,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 229,
     "uid": 27,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8565,10 +9941,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 253,
     "uid": 29,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8582,10 +9958,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 275,
     "uid": 31,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8599,10 +9975,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 332,
     "uid": 32,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8616,10 +9992,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 351,
     "uid": 33,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8633,10 +10009,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 431,
     "uid": 35,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8650,10 +10026,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 467,
     "uid": 41,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8667,10 +10043,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 500,
     "uid": 42,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8684,10 +10060,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 551,
     "uid": 43,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8701,10 +10077,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 609,
     "uid": 50,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8718,10 +10094,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 637,
     "uid": 52,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8735,10 +10111,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 669,
     "uid": 53,
     "date": "2020-03-01",
     "time": "15:05",
@@ -8752,10 +10128,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 151,
     "uid": 23,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8769,10 +10145,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 169,
     "uid": 24,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8786,10 +10162,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 187,
     "uid": 25,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8803,10 +10179,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 206,
     "uid": 26,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8820,10 +10196,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 223,
     "uid": 27,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8837,10 +10213,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 267,
     "uid": 29,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8854,10 +10230,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 313,
     "uid": 31,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8871,10 +10247,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 324,
     "uid": 32,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8888,10 +10264,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 347,
     "uid": 33,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8905,10 +10281,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 394,
     "uid": 35,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8922,10 +10298,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 488,
     "uid": 41,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8939,10 +10315,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 528,
     "uid": 42,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8956,10 +10332,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 553,
     "uid": 43,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8973,10 +10349,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 597,
     "uid": 50,
     "date": "2020-02-29",
     "time": "19:05",
@@ -8990,10 +10366,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 646,
     "uid": 52,
     "date": "2020-02-29",
     "time": "19:05",
@@ -9007,10 +10383,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 668,
     "uid": 53,
     "date": "2020-02-29",
     "time": "19:05",
@@ -9024,10 +10400,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 138,
     "uid": 23,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9041,10 +10417,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 162,
     "uid": 24,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9058,10 +10434,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 178,
     "uid": 25,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9075,10 +10451,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 211,
     "uid": 26,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9092,10 +10468,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 217,
     "uid": 27,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9109,10 +10485,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 259,
     "uid": 29,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9126,10 +10502,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 310,
     "uid": 31,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9143,10 +10519,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 325,
     "uid": 32,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9160,10 +10536,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 359,
     "uid": 33,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9177,10 +10553,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 432,
     "uid": 35,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9194,10 +10570,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 451,
     "uid": 41,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9211,10 +10587,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 509,
     "uid": 42,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9228,10 +10604,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 572,
     "uid": 43,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9245,10 +10621,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 608,
     "uid": 50,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9262,10 +10638,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 630,
     "uid": 52,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9279,10 +10655,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 667,
     "uid": 53,
     "date": "2020-02-28",
     "time": "16:10",
@@ -9296,10 +10672,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 140,
     "uid": 23,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9313,10 +10689,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 167,
     "uid": 24,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9330,10 +10706,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RN",
+    "": "",
     "__1": ""
   },
   {
-    "": 183,
     "uid": 25,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9347,10 +10723,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 196,
     "uid": 26,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9364,10 +10740,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 231,
     "uid": 27,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9381,10 +10757,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "AL",
+    "": "",
     "__1": ""
   },
   {
-    "": 271,
     "uid": 29,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9398,10 +10774,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 308,
     "uid": 31,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9415,10 +10791,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 327,
     "uid": 32,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9432,10 +10808,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 383,
     "uid": 33,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9449,10 +10825,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 414,
     "uid": 35,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9466,10 +10842,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 460,
     "uid": 41,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9483,10 +10859,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 517,
     "uid": 42,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9500,10 +10876,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 550,
     "uid": 43,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9517,10 +10893,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 611,
     "uid": 50,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9534,10 +10910,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MS",
+    "": "",
     "__1": ""
   },
   {
-    "": 633,
     "uid": 52,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9551,10 +10927,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "GO",
+    "": "",
     "__1": ""
   },
   {
-    "": 658,
     "uid": 53,
     "date": "2020-02-27",
     "time": "17:00",
@@ -9568,10 +10944,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 128,
     "uid": 23,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9585,10 +10961,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 193,
     "uid": 25,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9602,10 +10978,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PB",
+    "": "",
     "__1": ""
   },
   {
-    "": 212,
     "uid": 26,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9619,10 +10995,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PE",
+    "": "",
     "__1": ""
   },
   {
-    "": 264,
     "uid": 29,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9636,10 +11012,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "BA",
+    "": "",
     "__1": ""
   },
   {
-    "": 293,
     "uid": 31,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9653,10 +11029,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 328,
     "uid": 32,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9670,10 +11046,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "ES",
+    "": "",
     "__1": ""
   },
   {
-    "": 356,
     "uid": 33,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9687,10 +11063,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 401,
     "uid": 35,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9704,10 +11080,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 459,
     "uid": 41,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9721,10 +11097,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 512,
     "uid": 42,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9738,10 +11114,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 582,
     "uid": 43,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9755,10 +11131,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 650,
     "uid": 53,
     "date": "2020-02-26",
     "time": "11:30",
@@ -9772,10 +11148,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 120,
     "uid": 23,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9789,10 +11165,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 126,
     "uid": 23,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9806,10 +11182,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 321,
     "uid": 31,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9823,10 +11199,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 322,
     "uid": 31,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9840,10 +11216,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 381,
     "uid": 33,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9857,10 +11233,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 392,
     "uid": 33,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9874,10 +11250,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 418,
     "uid": 35,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9891,10 +11267,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 443,
     "uid": 35,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9908,10 +11284,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 462,
     "uid": 41,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9925,10 +11301,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 479,
     "uid": 41,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9942,10 +11318,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 501,
     "uid": 42,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9959,10 +11335,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 515,
     "uid": 42,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9976,10 +11352,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 552,
     "uid": 43,
     "date": "2020-02-25",
     "time": "13:50",
@@ -9993,10 +11369,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 571,
     "uid": 43,
     "date": "2020-02-25",
     "time": "13:50",
@@ -10010,10 +11386,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 653,
     "uid": 53,
     "date": "2020-02-25",
     "time": "13:50",
@@ -10027,10 +11403,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 676,
     "uid": 53,
     "date": "2020-02-25",
     "time": "13:50",
@@ -10044,10 +11420,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 130,
     "uid": 23,
     "date": "2020-02-24",
     "time": "12:25",
@@ -10061,10 +11437,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 307,
     "uid": 31,
     "date": "2020-02-24",
     "time": "12:25",
@@ -10078,10 +11454,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 378,
     "uid": 33,
     "date": "2020-02-24",
     "time": "12:25",
@@ -10095,10 +11471,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 413,
     "uid": 35,
     "date": "2020-02-24",
     "time": "12:25",
@@ -10112,10 +11488,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 472,
     "uid": 41,
     "date": "2020-02-24",
     "time": "12:25",
@@ -10129,10 +11505,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 511,
     "uid": 42,
     "date": "2020-02-24",
     "time": "12:25",
@@ -10146,10 +11522,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 583,
     "uid": 43,
     "date": "2020-02-24",
     "time": "12:25",
@@ -10163,10 +11539,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 652,
     "uid": 53,
     "date": "2020-02-24",
     "time": "12:25",
@@ -10180,10 +11556,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 112,
     "uid": 23,
     "date": "2020-02-23",
     "time": "12:30",
@@ -10197,10 +11573,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 299,
     "uid": 31,
     "date": "2020-02-23",
     "time": "12:30",
@@ -10214,10 +11590,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 388,
     "uid": 33,
     "date": "2020-02-23",
     "time": "12:30",
@@ -10231,10 +11607,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 440,
     "uid": 35,
     "date": "2020-02-23",
     "time": "12:30",
@@ -10248,10 +11624,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 493,
     "uid": 41,
     "date": "2020-02-23",
     "time": "12:30",
@@ -10265,10 +11641,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 516,
     "uid": 42,
     "date": "2020-02-23",
     "time": "12:30",
@@ -10282,10 +11658,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 562,
     "uid": 43,
     "date": "2020-02-23",
     "time": "12:30",
@@ -10299,10 +11675,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 662,
     "uid": 53,
     "date": "2020-02-23",
     "time": "12:30",
@@ -10316,10 +11692,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 115,
     "uid": 23,
     "date": "2020-02-22",
     "time": "13:40",
@@ -10333,10 +11709,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 291,
     "uid": 31,
     "date": "2020-02-22",
     "time": "13:40",
@@ -10350,10 +11726,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 368,
     "uid": 33,
     "date": "2020-02-22",
     "time": "13:40",
@@ -10367,10 +11743,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 435,
     "uid": 35,
     "date": "2020-02-22",
     "time": "13:40",
@@ -10384,10 +11760,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 469,
     "uid": 41,
     "date": "2020-02-22",
     "time": "13:40",
@@ -10401,10 +11777,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 523,
     "uid": 42,
     "date": "2020-02-22",
     "time": "13:40",
@@ -10418,10 +11794,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 568,
     "uid": 43,
     "date": "2020-02-22",
     "time": "13:40",
@@ -10435,10 +11811,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 659,
     "uid": 53,
     "date": "2020-02-22",
     "time": "13:40",
@@ -10452,10 +11828,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 129,
     "uid": 23,
     "date": "2020-02-21",
     "time": "14:30",
@@ -10469,10 +11845,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 318,
     "uid": 31,
     "date": "2020-02-21",
     "time": "14:30",
@@ -10486,10 +11862,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 372,
     "uid": 33,
     "date": "2020-02-21",
     "time": "14:30",
@@ -10503,10 +11879,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 417,
     "uid": 35,
     "date": "2020-02-21",
     "time": "14:30",
@@ -10520,10 +11896,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 447,
     "uid": 41,
     "date": "2020-02-21",
     "time": "14:30",
@@ -10537,10 +11913,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 504,
     "uid": 42,
     "date": "2020-02-21",
     "time": "14:30",
@@ -10554,10 +11930,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 544,
     "uid": 43,
     "date": "2020-02-21",
     "time": "14:30",
@@ -10571,10 +11947,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 651,
     "uid": 53,
     "date": "2020-02-21",
     "time": "14:30",
@@ -10588,10 +11964,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 116,
     "uid": 23,
     "date": "2020-02-20",
     "time": "15:50",
@@ -10605,10 +11981,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 314,
     "uid": 31,
     "date": "2020-02-20",
     "time": "15:50",
@@ -10622,10 +11998,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 386,
     "uid": 33,
     "date": "2020-02-20",
     "time": "15:50",
@@ -10639,10 +12015,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 424,
     "uid": 35,
     "date": "2020-02-20",
     "time": "15:50",
@@ -10656,10 +12032,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 468,
     "uid": 41,
     "date": "2020-02-20",
     "time": "15:50",
@@ -10673,10 +12049,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 506,
     "uid": 42,
     "date": "2020-02-20",
     "time": "15:50",
@@ -10690,10 +12066,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 566,
     "uid": 43,
     "date": "2020-02-20",
     "time": "15:50",
@@ -10707,10 +12083,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 679,
     "uid": 53,
     "date": "2020-02-20",
     "time": "15:50",
@@ -10724,10 +12100,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 135,
     "uid": 23,
     "date": "2020-02-19",
     "time": "15:50",
@@ -10741,10 +12117,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 306,
     "uid": 31,
     "date": "2020-02-19",
     "time": "15:50",
@@ -10758,10 +12134,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 391,
     "uid": 33,
     "date": "2020-02-19",
     "time": "15:50",
@@ -10775,10 +12151,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 439,
     "uid": 35,
     "date": "2020-02-19",
     "time": "15:50",
@@ -10792,10 +12168,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 474,
     "uid": 41,
     "date": "2020-02-19",
     "time": "15:50",
@@ -10809,10 +12185,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 525,
     "uid": 42,
     "date": "2020-02-19",
     "time": "15:50",
@@ -10826,10 +12202,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 569,
     "uid": 43,
     "date": "2020-02-19",
     "time": "15:50",
@@ -10843,10 +12219,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 654,
     "uid": 53,
     "date": "2020-02-19",
     "time": "15:50",
@@ -10860,10 +12236,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 107,
     "uid": 23,
     "date": "2020-02-18",
     "time": "15:50",
@@ -10877,10 +12253,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 298,
     "uid": 31,
     "date": "2020-02-18",
     "time": "15:50",
@@ -10894,10 +12270,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 361,
     "uid": 33,
     "date": "2020-02-18",
     "time": "15:50",
@@ -10911,10 +12287,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 396,
     "uid": 35,
     "date": "2020-02-18",
     "time": "15:50",
@@ -10928,10 +12304,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 450,
     "uid": 41,
     "date": "2020-02-18",
     "time": "15:50",
@@ -10945,10 +12321,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 518,
     "uid": 42,
     "date": "2020-02-18",
     "time": "15:50",
@@ -10962,10 +12338,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 576,
     "uid": 43,
     "date": "2020-02-18",
     "time": "15:50",
@@ -10979,10 +12355,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 672,
     "uid": 53,
     "date": "2020-02-18",
     "time": "15:50",
@@ -10996,10 +12372,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 125,
     "uid": 23,
     "date": "2020-02-17",
     "time": "15:50",
@@ -11013,10 +12389,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 277,
     "uid": 31,
     "date": "2020-02-17",
     "time": "15:50",
@@ -11030,10 +12406,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 365,
     "uid": 33,
     "date": "2020-02-17",
     "time": "15:50",
@@ -11047,10 +12423,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 412,
     "uid": 35,
     "date": "2020-02-17",
     "time": "15:50",
@@ -11064,10 +12440,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 455,
     "uid": 41,
     "date": "2020-02-17",
     "time": "15:50",
@@ -11081,10 +12457,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 497,
     "uid": 42,
     "date": "2020-02-17",
     "time": "15:50",
@@ -11098,10 +12474,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 557,
     "uid": 43,
     "date": "2020-02-17",
     "time": "15:50",
@@ -11115,10 +12491,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 666,
     "uid": 53,
     "date": "2020-02-17",
     "time": "15:50",
@@ -11132,10 +12508,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 119,
     "uid": 23,
     "date": "2020-02-16",
     "time": "12:00",
@@ -11149,10 +12525,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 282,
     "uid": 31,
     "date": "2020-02-16",
     "time": "12:00",
@@ -11166,10 +12542,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 384,
     "uid": 33,
     "date": "2020-02-16",
     "time": "12:00",
@@ -11183,10 +12559,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 404,
     "uid": 35,
     "date": "2020-02-16",
     "time": "12:00",
@@ -11200,10 +12576,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 463,
     "uid": 41,
     "date": "2020-02-16",
     "time": "12:00",
@@ -11217,10 +12593,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 514,
     "uid": 42,
     "date": "2020-02-16",
     "time": "12:00",
@@ -11234,10 +12610,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 547,
     "uid": 43,
     "date": "2020-02-16",
     "time": "12:00",
@@ -11251,10 +12627,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 675,
     "uid": 53,
     "date": "2020-02-16",
     "time": "12:00",
@@ -11268,10 +12644,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 104,
     "uid": 23,
     "date": "2020-02-15",
     "time": "14:00",
@@ -11285,10 +12661,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 274,
     "uid": 31,
     "date": "2020-02-15",
     "time": "14:00",
@@ -11302,10 +12678,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 376,
     "uid": 33,
     "date": "2020-02-15",
     "time": "14:00",
@@ -11319,10 +12695,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 421,
     "uid": 35,
     "date": "2020-02-15",
     "time": "14:00",
@@ -11336,10 +12712,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 465,
     "uid": 41,
     "date": "2020-02-15",
     "time": "14:00",
@@ -11353,10 +12729,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 513,
     "uid": 42,
     "date": "2020-02-15",
     "time": "14:00",
@@ -11370,10 +12746,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 577,
     "uid": 43,
     "date": "2020-02-15",
     "time": "14:00",
@@ -11387,10 +12763,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 665,
     "uid": 53,
     "date": "2020-02-15",
     "time": "14:00",
@@ -11404,10 +12780,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 147,
     "uid": 23,
     "date": "2020-02-14",
     "time": "16:00",
@@ -11421,10 +12797,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 320,
     "uid": 31,
     "date": "2020-02-14",
     "time": "16:00",
@@ -11438,10 +12814,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 369,
     "uid": 33,
     "date": "2020-02-14",
     "time": "16:00",
@@ -11455,10 +12831,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 415,
     "uid": 35,
     "date": "2020-02-14",
     "time": "16:00",
@@ -11472,10 +12848,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 449,
     "uid": 41,
     "date": "2020-02-14",
     "time": "16:00",
@@ -11489,10 +12865,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 502,
     "uid": 42,
     "date": "2020-02-14",
     "time": "16:00",
@@ -11506,10 +12882,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 556,
     "uid": 43,
     "date": "2020-02-14",
     "time": "16:00",
@@ -11523,10 +12899,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 671,
     "uid": 53,
     "date": "2020-02-14",
     "time": "16:00",
@@ -11540,10 +12916,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 105,
     "uid": 23,
     "date": "2020-02-13",
     "time": "16:00",
@@ -11557,10 +12933,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 286,
     "uid": 31,
     "date": "2020-02-13",
     "time": "16:00",
@@ -11574,10 +12950,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 348,
     "uid": 33,
     "date": "2020-02-13",
     "time": "16:00",
@@ -11591,10 +12967,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 420,
     "uid": 35,
     "date": "2020-02-13",
     "time": "16:00",
@@ -11608,10 +12984,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 490,
     "uid": 41,
     "date": "2020-02-13",
     "time": "16:00",
@@ -11625,10 +13001,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 533,
     "uid": 42,
     "date": "2020-02-13",
     "time": "16:00",
@@ -11642,10 +13018,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 563,
     "uid": 43,
     "date": "2020-02-13",
     "time": "16:00",
@@ -11659,10 +13035,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 657,
     "uid": 53,
     "date": "2020-02-13",
     "time": "16:00",
@@ -11676,10 +13052,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "DF",
+    "": "",
     "__1": ""
   },
   {
-    "": 108,
     "uid": 23,
     "date": "2020-02-12",
     "time": "16:00",
@@ -11693,10 +13069,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 292,
     "uid": 31,
     "date": "2020-02-12",
     "time": "16:00",
@@ -11710,10 +13086,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 349,
     "uid": 33,
     "date": "2020-02-12",
     "time": "16:00",
@@ -11727,10 +13103,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 402,
     "uid": 35,
     "date": "2020-02-12",
     "time": "16:00",
@@ -11744,10 +13120,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 470,
     "uid": 41,
     "date": "2020-02-12",
     "time": "16:00",
@@ -11761,10 +13137,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 505,
     "uid": 42,
     "date": "2020-02-12",
     "time": "16:00",
@@ -11778,10 +13154,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 549,
     "uid": 43,
     "date": "2020-02-12",
     "time": "16:00",
@@ -11795,10 +13171,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 114,
     "uid": 23,
     "date": "2020-02-11",
     "time": "16:00",
@@ -11812,10 +13188,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 285,
     "uid": 31,
     "date": "2020-02-11",
     "time": "16:00",
@@ -11829,10 +13205,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 360,
     "uid": 33,
     "date": "2020-02-11",
     "time": "16:00",
@@ -11846,10 +13222,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 405,
     "uid": 35,
     "date": "2020-02-11",
     "time": "16:00",
@@ -11863,10 +13239,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 453,
     "uid": 41,
     "date": "2020-02-11",
     "time": "16:00",
@@ -11880,10 +13256,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 503,
     "uid": 42,
     "date": "2020-02-11",
     "time": "16:00",
@@ -11897,10 +13273,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 559,
     "uid": 43,
     "date": "2020-02-11",
     "time": "16:00",
@@ -11914,10 +13290,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 137,
     "uid": 23,
     "date": "2020-02-10",
     "time": "15:30",
@@ -11931,10 +13307,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 278,
     "uid": 31,
     "date": "2020-02-10",
     "time": "15:30",
@@ -11948,10 +13324,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 358,
     "uid": 33,
     "date": "2020-02-10",
     "time": "15:30",
@@ -11965,10 +13341,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 425,
     "uid": 35,
     "date": "2020-02-10",
     "time": "15:30",
@@ -11982,10 +13358,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 446,
     "uid": 41,
     "date": "2020-02-10",
     "time": "15:30",
@@ -11999,10 +13375,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 538,
     "uid": 42,
     "date": "2020-02-10",
     "time": "15:30",
@@ -12016,10 +13392,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 588,
     "uid": 43,
     "date": "2020-02-10",
     "time": "15:30",
@@ -12033,10 +13409,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 121,
     "uid": 23,
     "date": "2020-02-09",
     "time": "13:30",
@@ -12050,10 +13426,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 311,
     "uid": 31,
     "date": "2020-02-09",
     "time": "13:30",
@@ -12067,10 +13443,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 350,
     "uid": 33,
     "date": "2020-02-09",
     "time": "13:30",
@@ -12084,10 +13460,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 399,
     "uid": 35,
     "date": "2020-02-09",
     "time": "13:30",
@@ -12101,10 +13477,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 445,
     "uid": 41,
     "date": "2020-02-09",
     "time": "13:30",
@@ -12118,10 +13494,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 530,
     "uid": 42,
     "date": "2020-02-09",
     "time": "13:30",
@@ -12135,10 +13511,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 587,
     "uid": 43,
     "date": "2020-02-09",
     "time": "13:30",
@@ -12152,10 +13528,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 149,
     "uid": 23,
     "date": "2020-02-08",
     "time": "13:30",
@@ -12169,10 +13545,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 305,
     "uid": 31,
     "date": "2020-02-08",
     "time": "13:30",
@@ -12186,10 +13562,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 345,
     "uid": 33,
     "date": "2020-02-08",
     "time": "13:30",
@@ -12203,10 +13579,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 428,
     "uid": 35,
     "date": "2020-02-08",
     "time": "13:30",
@@ -12220,10 +13596,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 481,
     "uid": 41,
     "date": "2020-02-08",
     "time": "13:30",
@@ -12237,10 +13613,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 532,
     "uid": 42,
     "date": "2020-02-08",
     "time": "13:30",
@@ -12254,10 +13630,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 592,
     "uid": 43,
     "date": "2020-02-08",
     "time": "13:30",
@@ -12271,10 +13647,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 113,
     "uid": 23,
     "date": "2020-02-07",
     "time": "15:30",
@@ -12288,10 +13664,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 297,
     "uid": 31,
     "date": "2020-02-07",
     "time": "15:30",
@@ -12305,10 +13681,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 390,
     "uid": 33,
     "date": "2020-02-07",
     "time": "15:30",
@@ -12322,10 +13698,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 438,
     "uid": 35,
     "date": "2020-02-07",
     "time": "15:30",
@@ -12339,10 +13715,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 476,
     "uid": 41,
     "date": "2020-02-07",
     "time": "15:30",
@@ -12356,10 +13732,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 542,
     "uid": 42,
     "date": "2020-02-07",
     "time": "15:30",
@@ -12373,10 +13749,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 584,
     "uid": 43,
     "date": "2020-02-07",
     "time": "15:30",
@@ -12390,10 +13766,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 110,
     "uid": 23,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12407,10 +13783,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 118,
     "uid": 23,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12424,10 +13800,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 283,
     "uid": 31,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12441,10 +13817,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 317,
     "uid": 31,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12458,10 +13834,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 353,
     "uid": 33,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12475,10 +13851,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 362,
     "uid": 33,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12492,10 +13868,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 403,
     "uid": 35,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12509,10 +13885,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 411,
     "uid": 35,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12526,10 +13902,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 452,
     "uid": 41,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12543,10 +13919,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 491,
     "uid": 41,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12560,10 +13936,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 495,
     "uid": 42,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12577,10 +13953,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 508,
     "uid": 42,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12594,10 +13970,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 545,
     "uid": 43,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12611,10 +13987,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 580,
     "uid": 43,
     "date": "2020-02-06",
     "time": "15:30",
@@ -12628,10 +14004,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 117,
     "uid": 23,
     "date": "2020-02-05",
     "time": "12:00",
@@ -12645,10 +14021,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 276,
     "uid": 31,
     "date": "2020-02-05",
     "time": "12:00",
@@ -12662,10 +14038,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 346,
     "uid": 33,
     "date": "2020-02-05",
     "time": "12:00",
@@ -12679,10 +14055,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 409,
     "uid": 35,
     "date": "2020-02-05",
     "time": "12:00",
@@ -12696,10 +14072,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 456,
     "uid": 41,
     "date": "2020-02-05",
     "time": "12:00",
@@ -12713,10 +14089,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 498,
     "uid": 42,
     "date": "2020-02-05",
     "time": "12:00",
@@ -12730,10 +14106,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 554,
     "uid": 43,
     "date": "2020-02-05",
     "time": "12:00",
@@ -12747,10 +14123,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 144,
     "uid": 23,
     "date": "2020-02-04",
     "time": "15:00",
@@ -12764,10 +14140,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 309,
     "uid": 31,
     "date": "2020-02-04",
     "time": "15:00",
@@ -12781,10 +14157,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 357,
     "uid": 33,
     "date": "2020-02-04",
     "time": "15:00",
@@ -12798,10 +14174,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 416,
     "uid": 35,
     "date": "2020-02-04",
     "time": "15:00",
@@ -12815,10 +14191,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 444,
     "uid": 41,
     "date": "2020-02-04",
     "time": "15:00",
@@ -12832,10 +14208,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 494,
     "uid": 42,
     "date": "2020-02-04",
     "time": "15:00",
@@ -12849,10 +14225,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 593,
     "uid": 43,
     "date": "2020-02-04",
     "time": "15:00",
@@ -12866,10 +14242,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 133,
     "uid": 23,
     "date": "2020-02-03",
     "time": "16:00",
@@ -12883,10 +14259,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 302,
     "uid": 31,
     "date": "2020-02-03",
     "time": "16:00",
@@ -12900,10 +14276,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 354,
     "uid": 33,
     "date": "2020-02-03",
     "time": "16:00",
@@ -12917,10 +14293,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 408,
     "uid": 35,
     "date": "2020-02-03",
     "time": "16:00",
@@ -12934,10 +14310,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 489,
     "uid": 41,
     "date": "2020-02-03",
     "time": "16:00",
@@ -12951,10 +14327,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 537,
     "uid": 42,
     "date": "2020-02-03",
     "time": "16:00",
@@ -12968,10 +14344,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 581,
     "uid": 43,
     "date": "2020-02-03",
     "time": "16:00",
@@ -12985,10 +14361,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 132,
     "uid": 23,
     "date": "2020-02-02",
     "time": "12:00",
@@ -13002,10 +14378,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 295,
     "uid": 31,
     "date": "2020-02-02",
     "time": "12:00",
@@ -13019,10 +14395,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 370,
     "uid": 33,
     "date": "2020-02-02",
     "time": "12:00",
@@ -13036,10 +14412,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 400,
     "uid": 35,
     "date": "2020-02-02",
     "time": "12:00",
@@ -13053,10 +14429,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 475,
     "uid": 41,
     "date": "2020-02-02",
     "time": "12:00",
@@ -13070,10 +14446,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 529,
     "uid": 42,
     "date": "2020-02-02",
     "time": "12:00",
@@ -13087,10 +14463,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 573,
     "uid": 43,
     "date": "2020-02-02",
     "time": "12:00",
@@ -13104,10 +14480,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 143,
     "uid": 23,
     "date": "2020-02-01",
     "time": "12:00",
@@ -13121,10 +14497,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 288,
     "uid": 31,
     "date": "2020-02-01",
     "time": "12:00",
@@ -13138,10 +14514,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 363,
     "uid": 33,
     "date": "2020-02-01",
     "time": "12:00",
@@ -13155,10 +14531,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 442,
     "uid": 35,
     "date": "2020-02-01",
     "time": "12:00",
@@ -13172,10 +14548,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 466,
     "uid": 41,
     "date": "2020-02-01",
     "time": "12:00",
@@ -13189,10 +14565,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 534,
     "uid": 42,
     "date": "2020-02-01",
     "time": "12:00",
@@ -13206,10 +14582,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 564,
     "uid": 43,
     "date": "2020-02-01",
     "time": "12:00",
@@ -13223,10 +14599,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 153,
     "uid": 23,
     "date": "2020-01-31",
     "time": "12:00",
@@ -13240,10 +14616,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 281,
     "uid": 31,
     "date": "2020-01-31",
     "time": "12:00",
@@ -13257,10 +14633,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 382,
     "uid": 33,
     "date": "2020-01-31",
     "time": "12:00",
@@ -13274,10 +14650,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 429,
     "uid": 35,
     "date": "2020-01-31",
     "time": "12:00",
@@ -13291,10 +14667,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 485,
     "uid": 41,
     "date": "2020-01-31",
     "time": "12:00",
@@ -13308,10 +14684,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 526,
     "uid": 42,
     "date": "2020-01-31",
     "time": "12:00",
@@ -13325,10 +14701,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 585,
     "uid": 43,
     "date": "2020-01-31",
     "time": "12:00",
@@ -13342,10 +14718,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   },
   {
-    "": 127,
     "uid": 23,
     "date": "2020-01-30",
     "time": "16:00",
@@ -13359,10 +14735,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "CE",
+    "": "",
     "__1": ""
   },
   {
-    "": 273,
     "uid": 31,
     "date": "2020-01-30",
     "time": "16:00",
@@ -13376,10 +14752,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "MG",
+    "": "",
     "__1": ""
   },
   {
-    "": 379,
     "uid": 33,
     "date": "2020-01-30",
     "time": "16:00",
@@ -13393,10 +14769,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RJ",
+    "": "",
     "__1": ""
   },
   {
-    "": 434,
     "uid": 35,
     "date": "2020-01-30",
     "time": "16:00",
@@ -13410,10 +14786,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SP",
+    "": "",
     "__1": ""
   },
   {
-    "": 486,
     "uid": 41,
     "date": "2020-01-30",
     "time": "16:00",
@@ -13427,10 +14803,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "PR",
+    "": "",
     "__1": ""
   },
   {
-    "": 531,
     "uid": 42,
     "date": "2020-01-30",
     "time": "16:00",
@@ -13444,10 +14820,10 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "SC",
+    "": "",
     "__1": ""
   },
   {
-    "": 575,
     "uid": 43,
     "date": "2020-01-30",
     "time": "16:00",
@@ -13461,6 +14837,7 @@
     "broadcast": 0,
     "deaths": 0,
     "uf": "RS",
+    "": "",
     "__1": ""
   }
 ]

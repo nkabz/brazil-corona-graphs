@@ -1,34 +1,65 @@
 import React from 'react'
 import {
     VictoryChart,
-    VictoryBar,
-    VictoryGroup,
-    VictoryTheme
+    VictoryScatter,
+    VictoryTheme,
+    VictoryAxis,
+    VictoryLabel,
+    VictoryVoronoiContainer,
+    VictoryTooltip,
 } from 'victory'
 
-import { plotStateData } from '../../lib/api'
+import { createStatePlotData } from '../../lib/csvLoader'
 
-export default function ByState() {
-
+export default function ByState({width, graphColor, type}) {
+    const scatterData = createStatePlotData(type)
     return (
         <>
-            {/* <VictoryChart
+            <VictoryChart
                 theme={VictoryTheme.material}
-            />
-                <VictoryGroup horizontal
-                    offset={10}
-                    style={{ data: { width: 6 } }}
-                >
-                    {plotStateData.map((key) => {
-                        return key.map((value) => {
-                            return (
-                                <VictoryBar
-                                    data={value}
-                                />
-                            )
-                        })
-                    })}
-                </VictoryGroup> */}
+                width={width}
+                height={550}
+                domainPadding={width < 500 ? 10 : 50}
+                containerComponent={
+                    <VictoryVoronoiContainer
+                        labels={({datum}) => `${datum.x}\nConfirmados: ${datum.y}`}
+                        labelComponent={
+                            <VictoryTooltip
+                                style={{fontSize: width < 500 ? 12 : 14, fill: `rgba(${graphColor}, 1)`}}
+                                cornerRadius={5}
+                                centerOffset={{ x: (datum) => {
+                                    return datum.x < 250 ? 15 : -15
+                                }}}
+                                flyoutStyle={{
+                                    stroke: '#d7d7d7',
+                                    fill: 'white',
+                                }}
+                            />
+                        }
+                    />
+                }
+                animate={{
+                    duration: 2000,
+                    onLoad: { duration: 1000 }
+                }}
+            >
+                <VictoryAxis
+                    tickLabelComponent={
+                        <VictoryLabel
+                            dx={width < 500 ? -5 : 0} dy={width < 500 ? -5 : 0}
+                            angle={width < 600 ? -90 : 0}
+                            style={{ fontSize: width < 600 ? 10 : 14 }}
+                        />
+                    }
+                />
+                <VictoryAxis
+                    dependentAxis
+                />
+                <VictoryScatter
+                    style={{data: {fill: `rgba(${graphColor}, 1)`}}}
+                    data={scatterData}
+                />
+            </VictoryChart>
         </>
     )
 }

@@ -4,6 +4,7 @@ import { throttle as _throttle } from 'lodash';
 import { getData } from '../lib/api';
 import Accumulative from './Graphs/Accumulative';
 import Increment from './Graphs/Increment';
+import ByState from './Graphs/ByState';
 
 function Graphs () {
     const [mapData, setMapData] = useState();
@@ -58,7 +59,20 @@ function Graphs () {
             graphColor='230, 48, 78'
         />
         : null
-
+    const confirmedByState = mapData ?
+        <ByState
+            width={width}
+            graphColor='52, 158, 235'
+            type='cases'
+        />
+        : null
+    const deathsByState = mapData ?
+        <ByState
+            width={width}
+            graphColor='230, 48, 78'
+            type='deaths'
+        />
+        : null
     return (
         <>
             <div className='mt-12'>
@@ -74,6 +88,14 @@ function Graphs () {
                 <h1 className='text-xl text-red-600 mx-auto text-center'>Incremento no número de mortes / Dia</h1>
                 <h3 className='text-xs text-red-400 mx-auto text-center'>Desde a primeira morte</h3>
                 {incrementDeathMap}
+            </div>
+            <div className='mt-20'>
+                <h1 className='text-xl text-blue-600 mx-auto text-center'>Distribuição de casos confirmados por Estado</h1>
+                {confirmedByState}
+            </div>
+            <div className='mt-20'>
+                <h1 className='text-xl text-red-600 mx-auto text-center'>Distribuição de mortes confirmadas por Estado</h1>
+                {deathsByState}
             </div>
         </>
     )

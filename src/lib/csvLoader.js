@@ -23,48 +23,28 @@ function createPlotData (object, type) {
     }).reverse()
 }
 
-function createStatePlotData (object) {
-    return Object.keys(object).map((key) => {
-        let state = object[key]
-        return Object.keys(state).map((value) => {
-            return {
-                x: value,
-                y: state[value],
-                uf: key,
-            }
-        }).reverse()
+function createStatePlotData (type) {
+    let groupedData = _groupBy(data, 'date')
+    return groupedData[Object.keys(groupedData)[0]].map((state) => {
+        return {
+            x: state.uf,
+            y: state[type],
+            date: state.date,
+        }
     })
 }
-function createIncreaseMap (object, type) {
-    return Object.keys(object).map((key) => {
-        if (object[moment(key).subtract(1, 'day').format('YYYY-MM-DD')]) {
-            let previous = object[moment(key).subtract(1, 'day').format('YYYY-MM-DD')][type]
-            let increase = object[key][type] - previous
-
-            return {
-                x: moment(key).format('YYYY-M-DD'),
-                y: increase
-            }
-        }
-        return ''
-    }).reverse()
-}
-
 
 const groupedByDate = groupBy(data, 'date')
-const groupedByState = groupBy(data, 'uf')
 
 const plotSuspectsByDate = createPlotData(groupedByDate, 'suspects')
 const plotDeathsByDate = createPlotData(groupedByDate, 'deaths')
 const plotCasesByDate = createPlotData(groupedByDate, 'cases')
 const plotRefusesByDate = createPlotData(groupedByDate, 'refuses')
-const plotStateData = createStatePlotData(groupedByState)
-const plotIncreaseByDate = createIncreaseMap(groupedByDate, 'cases')
 
 export {
     plotSuspectsByDate,
     plotDeathsByDate,
     plotCasesByDate,
     plotRefusesByDate,
-    plotStateData,
+    createStatePlotData,
 }

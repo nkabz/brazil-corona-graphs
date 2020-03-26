@@ -34,8 +34,11 @@ export default function Accumulative({ width, mapData }) {
                     labels={({ datum }) => `${moment(datum.x, 'YYYY/MM/DD').format('DD-MM-YYYY')}\n${translate(datum.name)}: ${datum.y}`}
                     labelComponent={
                         <VictoryTooltip
+                            style={{fontSize: width < 500 ? 12 : 16}}
                             cornerRadius={5}
-                            centerOffset={{ x: width < 500 ? -50 : 0 }}
+                            centerOffset={{ x: (datum) => {
+                                return datum.x < 250 ? 15 : -15
+                            }}}
                             flyoutStyle={{
                                 stroke: '#d7d7d7',
                                 fill: 'white',
