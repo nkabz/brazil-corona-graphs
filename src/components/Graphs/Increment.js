@@ -5,6 +5,7 @@ import {
     VictoryBar,
     VictoryTheme,
     VictoryLabel,
+    VictoryContainer,
 } from 'victory';
 
 import { incrementPlotGraph, incrementAverage } from '../../lib/utils';
@@ -12,8 +13,6 @@ import { incrementPlotGraph, incrementAverage } from '../../lib/utils';
 export default function Increment({ width, mapData, type, graphColor }) {
     const incrementData = incrementPlotGraph(mapData, type);
     const averageData = incrementAverage(incrementData);
-
-
 
     return (
         <>
@@ -26,6 +25,11 @@ export default function Increment({ width, mapData, type, graphColor }) {
                     duration: 2000,
                     onLoad: { duration: 1000 }
                 }}
+                containerComponent={
+                    <VictoryContainer
+                        style={{touchAction: 'auto'}}
+                    />
+                }
             >
                 <VictoryAxis
                     tickCount={5}

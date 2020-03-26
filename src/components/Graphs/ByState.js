@@ -23,6 +23,7 @@ export default function ByState({width, graphColor, type}) {
                 containerComponent={
                     <VictoryVoronoiContainer
                         labels={({datum}) => `${datum.x}\nConfirmados: ${datum.y}`}
+                        style={{touchAction: 'auto'}}
                         labelComponent={
                             <VictoryTooltip
                                 style={{fontSize: width < 500 ? 12 : 14, fill: `rgba(${graphColor}, 1)`}}

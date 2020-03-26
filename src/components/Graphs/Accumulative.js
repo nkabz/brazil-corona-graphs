@@ -32,6 +32,7 @@ export default function Accumulative({ width, mapData }) {
             containerComponent={
                 <VictoryVoronoiContainer
                     labels={({ datum }) => `${moment(datum.x, 'YYYY/MM/DD').format('DD-MM-YYYY')}\n${translate(datum.name)}: ${datum.y}`}
+                    style={{touchAction: 'auto'}}
                     labelComponent={
                         <VictoryTooltip
                             style={{fontSize: width < 500 ? 12 : 16}}
