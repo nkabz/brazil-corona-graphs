@@ -13,6 +13,7 @@ import { createStatePlotData } from '../../lib/csvLoader'
 
 export default function ByState({width, graphColor, type}) {
     const scatterData = createStatePlotData(type)
+    console.log(scatterData)
     return (
         <>
             <VictoryChart
@@ -22,7 +23,7 @@ export default function ByState({width, graphColor, type}) {
                 domainPadding={width < 500 ? 10 : 50}
                 containerComponent={
                     <VictoryVoronoiContainer
-                        labels={({datum}) => `${datum.x}\nConfirmados: ${datum.y}`}
+                        labels={({datum}) => `${datum.x}\n${datum.type}: ${datum.y}`}
                         style={{touchAction: 'auto'}}
                         labelComponent={
                             <VictoryTooltip

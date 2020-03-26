@@ -2,6 +2,8 @@ import data from '../resources/csvjson.json'
 import { groupBy as _groupBy, mapValues as _mapValues } from 'lodash';
 import moment from 'moment'
 
+import { translate } from './translate'
+
 function groupBy(object, type) {
     return _mapValues(_groupBy(object, type), (groupedData) => groupedData.reduce((previousValue, currentValue) => {
         return {
@@ -18,7 +20,7 @@ function createPlotData (object, type) {
         return {
             x: moment(key).format('YYYY-M-DD'),
             y: object[key][type],
-            name: type
+            name: translate(type)
         }
     }).reverse()
 }
@@ -30,6 +32,7 @@ function createStatePlotData (type) {
             x: state.uf,
             y: state[type],
             date: state.date,
+            type: translate(type),
         }
     })
 }
