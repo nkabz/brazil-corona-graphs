@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "291919977e93a4a0a08c497ed29d8a26",
+    "revision": "1e3e362c0576641ff770cb69a6ebcdd7",
     "url": "/brazil-corona-graphs/index.html"
   },
   {
-    "revision": "8dc044a230f74d62b8aa",
+    "revision": "d9c408eacc549ff8f90f",
     "url": "/brazil-corona-graphs/static/css/main.c5e4fff7.chunk.css"
   },
   {
-    "revision": "7a134a89fae89ef6a1dd",
-    "url": "/brazil-corona-graphs/static/js/2.b82b725d.chunk.js"
+    "revision": "596a1b6ea9a36e9b456f",
+    "url": "/brazil-corona-graphs/static/js/2.db82be37.chunk.js"
   },
   {
     "revision": "3b173ed738774b4bb64ac2b5ddb03f3b",
-    "url": "/brazil-corona-graphs/static/js/2.b82b725d.chunk.js.LICENSE.txt"
+    "url": "/brazil-corona-graphs/static/js/2.db82be37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8dc044a230f74d62b8aa",
-    "url": "/brazil-corona-graphs/static/js/main.5bdbd7a5.chunk.js"
+    "revision": "d9c408eacc549ff8f90f",
+    "url": "/brazil-corona-graphs/static/js/main.2c892a23.chunk.js"
   },
   {
     "revision": "83fa8002ec5d4b29de0d",
