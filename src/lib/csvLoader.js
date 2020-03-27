@@ -1,5 +1,5 @@
 import data from '../resources/csvjson.json'
-import { groupBy as _groupBy, mapValues as _mapValues } from 'lodash';
+import { groupBy as _groupBy, mapValues as _mapValues, orderBy as _orderBy } from 'lodash';
 import moment from 'moment'
 
 import { translate } from './translate'
@@ -26,7 +26,8 @@ function createPlotData (object, type) {
 }
 
 function createStatePlotData (type) {
-    let groupedData = _groupBy(data, 'date')
+    let groupedData = _groupBy(_orderBy(data, 'date', 'desc'), 'date')
+    console.log(groupedData)
     return groupedData[Object.keys(groupedData)[0]].map((state) => {
         return {
             x: state.uf,
