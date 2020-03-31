@@ -45,7 +45,7 @@ export default function Increment({ width, mapData, type, graphColor }) {
                     data={incrementData}
                     labels={({ datum }) => Math.floor(datum.y)}
                     style={{
-                        labels: { fill: `rgba(${graphColor}, 1)`, fontSize: () => width < 500 ? 8 : 14, fontFamily: 'Raleway' },
+                        labels: { fill: `rgba(${graphColor}, 1)`, fontSize: () => width < 500 ? 8 : 14 },
                         data: {
                             fill: `rgba(${graphColor}, 0.5)`,
                             stroke: `rgba(${graphColor}, 1)`,
