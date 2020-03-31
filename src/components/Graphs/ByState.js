@@ -61,7 +61,8 @@ export default function ByState({width, graphColor, type}) {
                     dependentAxis
                 />
                 <VictoryScatter
-                    style={{data: {fill: `rgba(${graphColor}, 1)`}}}
+                    size={({ active }) => active ? 5 : 3}
+                    style={{data: {fill: `rgba(${graphColor}, 1)`, stroke: '#ffffff', strokeWidth: 1}}}
                     data={scatterData}
                 />
             </VictoryChart>
