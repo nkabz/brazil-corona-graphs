@@ -42,13 +42,13 @@ export default function Accumulative({ width, mapData }) {
                 tickFormat={(label) => `${moment(label, 'YYYY/MM/DD').format('DD-MM')}\n${moment(label, 'YYYY/MM/DD').format('YYYY')}`}
                 tickLabelComponent={
                     <VictoryLabel
-                        style={{ data: { fontSize: 32 } }}
+                        style={{ data: { fontSize: 32 }, fontFamily: 'Raleway' }}
                     />
                 }
             />
             <VictoryAxis
                 style={{
-                    tickLabels: { fontSize: 14 },
+                    tickLabels: { fontSize: 14, fontFamily: 'Raleway' }
                 }}
                 dependentAxis
             />

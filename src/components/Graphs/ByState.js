@@ -50,11 +50,14 @@ export default function ByState({width, graphColor, type}) {
                         <VictoryLabel
                             dx={width < 500 ? -5 : 0} dy={width < 500 ? -5 : 0}
                             angle={width < 600 ? -90 : 0}
-                            style={{ fontSize: width < 600 ? 10 : 14 }}
+                            style={{ fontSize: width < 600 ? 10 : 14, fontFamily: 'Raleway' }}
                         />
                     }
                 />
                 <VictoryAxis
+                    style={{
+                        tickLabels: { fontSize: 14, fontFamily: 'Raleway' }
+                    }}
                     dependentAxis
                 />
                 <VictoryScatter
