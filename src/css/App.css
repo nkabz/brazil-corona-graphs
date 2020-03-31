@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Raleway';
+    src: local('Raleway'), url(../assets/fonts/Raleway-Regular.ttf) format('truetype');
+}
+
+body {
+    font-family: Raleway;
+}

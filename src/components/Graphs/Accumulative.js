@@ -8,6 +8,8 @@ import {
     VictoryTooltip,
     VictoryAxis,
     VictoryLabel,
+    VictoryGroup,
+    VictoryScatter,
 } from 'victory'
 
 import { translate } from '../../lib/translate'
@@ -26,26 +28,12 @@ export default function Accumulative({ width, mapData }) {
             domainPadding={width < 500 ? 10 : 50}
             padding={60}
             animate={{
-                duration: 2000,
-                onLoad: { duration: 1000 }
+                duration: 1500,
+                onLoad: { duration: 1500 }
             }}
             containerComponent={
                 <VictoryVoronoiContainer
-                    labels={({ datum }) => `${moment(datum.x, 'YYYY/MM/DD').format('DD-MM-YYYY')}\n${translate(datum.name)}: ${datum.y}`}
                     style={{touchAction: 'auto'}}
-                    labelComponent={
-                        <VictoryTooltip
-                            style={{fontSize: width < 500 ? 12 : 16}}
-                            cornerRadius={5}
-                            centerOffset={{ x: (datum) => {
-                                return datum.x < 250 ? 15 : -15
-                            }}}
-                            flyoutStyle={{
-                                stroke: '#d7d7d7',
-                                fill: 'white',
-                            }}
-                        />
-                    }
                 />
             }
         >
@@ -60,33 +48,100 @@ export default function Accumulative({ width, mapData }) {
             />
             <VictoryAxis
                 style={{
-                    tickLabels: { fontSize: 16 },
+                    tickLabels: { fontSize: 14 },
                 }}
                 dependentAxis
             />
-            <VictoryArea
+            <VictoryGroup
                 data={confirmedGraphData}
-                style={{
-                    data: { stroke: "rgba(52, 158, 235, 1)", fill: "rgba(52, 158, 235, 0.2)" },
-                    labels: {
-                        fill: "rgba(52, 158, 235, 1)",
-                        fontSize: 20,
-                        padding: 5
-                    }
-                }}
-            />
-            <VictoryArea
+                color='rgba(52, 158, 235, 1)'
+                labels={({ datum }) => `${moment(datum.x, 'YYYY/MM/DD').format('DD-MM-YYYY')}\n${translate(datum.name)}: ${Math.floor(datum.y)}`}
+                style={{touchAction: 'auto'}}
+                labelComponent={
+                    <VictoryTooltip
+                        style={{
+                            fontSize: width < 500 ? 12 : 14,
+                            fill: 'rgba(52, 158, 235, 1)',
+                        }}
+                        cornerRadius={5}
+                        centerOffset={{ x: (datum) => {
+                            return datum.x < 250 ? 15 : -15
+                        }}}
+                        flyoutStyle={{
+                            stroke: '#d7d7d7',
+                            fill: 'white',
+                        }}
+                    />
+                }
+            >
+                <VictoryArea
+                    name='areaConfirmed'
+                    style={{
+                        data: { stroke: 'rgba(52, 158, 235, 1)', fill: 'rgba(52, 158, 235, 0.2)' },
+                        labels: {
+                            fill: 'rgba(52, 158, 235, 1)',
+                            fontSize: 20,
+                            padding: 5
+                        }
+                    }}
+                />
+                <VictoryScatter
+                    name='scatterConfirmed'
+                    size={({ active }) => active ? 5 : 3}
+                    style={{
+                        data: {
+                            stroke: 'rgba(52, 158, 235, 1)',
+                            fill: '#ffffff',
+                            strokeWidth: '1px',
+                        },
+                    }}
+                />
+            </VictoryGroup>
+            <VictoryGroup
                 data={deathGraphData}
-                style={{
-                    data: { stroke: "rgba(230, 48, 78, 1)", fill: "rgba(230, 48, 78, 0.4)" },
-                    labels: {
-                        fill: "rgba(230, 48, 78, 1)",
-                        fontSize: 20,
-                        padding: 5
-                    }
-                }}
-            />
-
+                color='rgba(230, 48, 78, 1)'
+                labels={({ datum }) => `${moment(datum.x, 'YYYY/MM/DD').format('DD-MM-YYYY')}\n${translate(datum.name)}: ${Math.floor(datum.y)}`}
+                style={{touchAction: 'auto'}}
+                labelComponent={
+                    <VictoryTooltip
+                        style={{
+                            fontSize: width < 500 ? 12 : 14,
+                            fill: 'rgba(230, 48, 78, 1)',
+                        }}
+                        cornerRadius={5}
+                        centerOffset={{ x: (datum) => {
+                            return datum.x < 250 ? 15 : -15
+                        }}}
+                        flyoutStyle={{
+                            stroke: '#d7d7d7',
+                            fill: 'white',
+                        }}
+                    />
+                }
+            >
+                <VictoryArea
+                    name='areaDeath'
+                    style={{
+                        data: { stroke: "rgba(230, 48, 78, 1)", fill: "rgba(230, 48, 78, 0.4)" },
+                        labels: {
+                            fill: "rgba(230, 48, 78, 1)",
+                            fontSize: 20,
+                            padding: 5
+                        }
+                    }}
+                />
+                <VictoryScatter
+                    name='scatterDeath'
+                    size={({ active }) => active ? 5 : 3}
+                    style={{
+                        data: {
+                            stroke: 'rgba(230, 48, 78, 1)',
+                            fill: '#ffffff',
+                            strokeWidth: '1px',
+                        },
+                    }}
+                />
+            </VictoryGroup>
         </VictoryChart>
     )
 }

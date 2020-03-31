@@ -5,6 +5,7 @@ import Header from '../components/Header'
 import Graphs from '../components/Graphs'
 
 import GithubLogo from '../assets/GitHub-Mark-64px.png'
+import '../css/App.css'
 
 function App() {
     return (

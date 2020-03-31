@@ -37,13 +37,13 @@ export default function Increment({ width, mapData, type, graphColor }) {
                 />
                 <VictoryAxis
                     style={{
-                        tickLabels: { fontSize: 16 },
+                        tickLabels: { fontSize: 14 },
                     }}
                     dependentAxis
                 />
                 <VictoryBar
                     data={incrementData}
-                    labels={({ datum }) => datum.y}
+                    labels={({ datum }) => Math.floor(datum.y)}
                     style={{
                         labels: { fill: `rgba(${graphColor}, 1)`, fontSize: () => width < 500 ? 10 : 16 },
                         data: {
