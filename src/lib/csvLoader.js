@@ -27,9 +27,8 @@ function createPlotData (object, type) {
 
 function createStatePlotData (type) {
     let groupedData = _groupBy(_orderBy(data, 'date', 'desc'), 'date')
-    console.log(groupedData)
+
     return groupedData[Object.keys(groupedData)[0]].map((state) => {
-        console.log(state)
         return {
             x: state.uf,
             y: state[type],

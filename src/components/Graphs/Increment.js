@@ -45,14 +45,14 @@ export default function Increment({ width, mapData, type, graphColor }) {
                     data={incrementData}
                     labels={({ datum }) => Math.floor(datum.y)}
                     style={{
-                        labels: { fill: `rgba(${graphColor}, 1)`, fontSize: () => width < 500 ? 10 : 16 },
+                        labels: { fill: `rgba(${graphColor}, 1)`, fontSize: () => width < 500 ? 8 : 16 },
                         data: {
                             fill: `rgba(${graphColor}, 0.5)`,
                             stroke: `rgba(${graphColor}, 1)`,
                             strokeWidth: 1,
                         }
                     }}
-                    labelComponent={<VictoryLabel dy={width < 500 ? 5 : -15} dx={width < 500 ? 20 : 0} angle={width < 500 ? -90 : 0} />}
+                    labelComponent={<VictoryLabel dy={width < 500 ? 4 : -15} dx={width < 500 ? 18 : 0} angle={width < 500 ? -90 : 0} />}
                 />
             </VictoryChart>
             <div className='text-center italic'>

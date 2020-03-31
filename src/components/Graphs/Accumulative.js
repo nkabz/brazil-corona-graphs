@@ -87,7 +87,7 @@ export default function Accumulative({ width, mapData }) {
                 />
                 <VictoryScatter
                     name='scatterConfirmed'
-                    size={({ active }) => active ? 5 : 3}
+                    size={({ active }) => active ? 4 : 2}
                     style={{
                         data: {
                             stroke: 'rgba(52, 158, 235, 1)',
@@ -132,7 +132,7 @@ export default function Accumulative({ width, mapData }) {
                 />
                 <VictoryScatter
                     name='scatterDeath'
-                    size={({ active }) => active ? 5 : 3}
+                    size={({ active }) => active ? 4 : 2}
                     style={{
                         data: {
                             stroke: 'rgba(230, 48, 78, 1)',
