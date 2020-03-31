@@ -27,7 +27,7 @@ export default function ByState({width, graphColor, type}) {
                         style={{touchAction: 'auto', fontFamily: 'Raleway'}}
                         labelComponent={
                             <VictoryTooltip
-                                style={{fontSize: width < 500 ? 12 : 14, fill: `rgba(${graphColor}, 1)`}}
+                                style={{fontSize: width < 500 ? 12 : 16, fill: `rgba(${graphColor}, 1)`}}
                                 cornerRadius={5}
                                 centerOffset={{ x: (datum) => {
                                     return datum.x < 250 ? 15 : -15

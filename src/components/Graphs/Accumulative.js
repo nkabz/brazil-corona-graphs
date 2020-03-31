@@ -60,7 +60,7 @@ export default function Accumulative({ width, mapData }) {
                 labelComponent={
                     <VictoryTooltip
                         style={{
-                            fontSize: width < 500 ? 12 : 14,
+                            fontSize: width < 500 ? 12 : 16,
                             fill: 'rgba(52, 158, 235, 1)',
                         }}
                         cornerRadius={5}
@@ -105,7 +105,7 @@ export default function Accumulative({ width, mapData }) {
                 labelComponent={
                     <VictoryTooltip
                         style={{
-                            fontSize: width < 500 ? 12 : 14,
+                            fontSize: width < 500 ? 12 : 16,
                             fill: 'rgba(230, 48, 78, 1)',
                         }}
                         cornerRadius={5}
