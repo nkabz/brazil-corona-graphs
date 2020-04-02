@@ -76,8 +76,9 @@ export default function Accumulative({ width, mapData }) {
             >
                 <VictoryArea
                     name='areaConfirmed'
+                    interpolation={'natural'}
                     style={{
-                        data: { stroke: 'rgba(52, 158, 235, 1)', fill: 'rgba(52, 158, 235, 0.2)' },
+                        data: { stroke: 'rgba(52, 158, 235, 1)', fill: 'rgba(52, 158, 235, 0.2)', strokeWidth: 1.25},
                         labels: {
                             fill: 'rgba(52, 158, 235, 1)',
                             fontSize: 20,
@@ -87,12 +88,10 @@ export default function Accumulative({ width, mapData }) {
                 />
                 <VictoryScatter
                     name='scatterConfirmed'
-                    size={({ active }) => active ? 4 : 2}
+                    size={({ active }) => width < 500 ? (active ? 3.5 : 1.5) : (active ? 4.5 : 2.5)}
                     style={{
                         data: {
-                            stroke: 'rgba(52, 158, 235, 1)',
-                            fill: '#ffffff',
-                            strokeWidth: '1px',
+                            fill: 'rgba(52, 158, 235, 1)',
                         },
                     }}
                 />
@@ -121,8 +120,9 @@ export default function Accumulative({ width, mapData }) {
             >
                 <VictoryArea
                     name='areaDeath'
+                    interpolation={'natural'}
                     style={{
-                        data: { stroke: "rgba(230, 48, 78, 1)", fill: "rgba(230, 48, 78, 0.4)" },
+                        data: { stroke: "rgba(230, 48, 78, 1)", fill: "rgba(230, 48, 78, 0.4)", strokeWidth: 1.25 },
                         labels: {
                             fill: "rgba(230, 48, 78, 1)",
                             fontSize: 20,
@@ -132,12 +132,10 @@ export default function Accumulative({ width, mapData }) {
                 />
                 <VictoryScatter
                     name='scatterDeath'
-                    size={({ active }) => active ? 4 : 2}
+                    size={({ active }) => width < 500 ? (active ? 3.5 : 1.5) : (active ? 4.5 : 2.5)}
                     style={{
                         data: {
                             stroke: 'rgba(230, 48, 78, 1)',
-                            fill: '#ffffff',
-                            strokeWidth: '1px',
                         },
                     }}
                 />
