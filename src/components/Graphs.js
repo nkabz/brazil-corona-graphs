@@ -89,14 +89,6 @@ function Graphs () {
                 <h3 className='text-xs text-red-400 mx-auto text-center'>Desde a primeira morte</h3>
                 {incrementDeathMap}
             </div>
-            <div className='mt-20'>
-                <h1 className='text-xl text-blue-600 mx-auto text-center'>Distribuição de casos confirmados por Estado</h1>
-                {confirmedByState}
-            </div>
-            <div className='mt-20'>
-                <h1 className='text-xl text-red-600 mx-auto text-center'>Distribuição de mortes confirmadas por Estado</h1>
-                {deathsByState}
-            </div>
         </>
     )
 }
