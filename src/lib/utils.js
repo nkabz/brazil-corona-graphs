@@ -1,4 +1,4 @@
-export function createPlotGraph(data, type) {
+export function createPlotGraph (data, type) {
     return Object.keys(data).map((key) => {
         return {
             x: data[key].date,
@@ -8,7 +8,7 @@ export function createPlotGraph(data, type) {
     }).filter((value) => value.y > 0)
 }
 
-export function incrementPlotGraph(data, type) {
+export function incrementPlotGraph (data, type) {
     return Object.keys(data).filter((value) => {
         return data[value][type] > 0;
     }).map((filteredValue, index) => {
@@ -20,7 +20,7 @@ export function incrementPlotGraph(data, type) {
 }
 
 
-export function incrementAverage(data) {
+export function incrementAverage (data) {
     let avgIncrease = 0;
 
     for (let index = 1; index < data.length; index++) {
@@ -28,4 +28,14 @@ export function incrementAverage(data) {
         avgIncrease = avgIncrease + valueToAdd;
     }
     return ((avgIncrease / (data.length)) * 100).toFixed(2);
+}
+
+export function getLatestFormated (data) {
+    const lastElement = data.pop();
+    const actives = lastElement.confirmed - (lastElement.recovered + lastElement.deaths)
+    return [
+        { x: 'Ativos', y: actives },
+        { x: 'Recuperados', y: lastElement.recovered },
+        { x: 'Mortes', y: lastElement.deaths },
+    ];
 }

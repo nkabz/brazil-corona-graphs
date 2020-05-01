@@ -4,7 +4,7 @@ import { throttle as _throttle } from 'lodash';
 import { getData } from '../lib/api';
 import Accumulative from './Graphs/Accumulative';
 import Increment from './Graphs/Increment';
-import ByState from './Graphs/ByState';
+import TotalPie from './Graphs/TotalPie'
 
 function Graphs () {
     const [mapData, setMapData] = useState();
@@ -59,20 +59,13 @@ function Graphs () {
             graphColor='230, 48, 78'
         />
         : null
-    const confirmedByState = mapData ?
-        <ByState
+    const totalPie = mapData ?
+        <TotalPie
             width={width}
-            graphColor='52, 158, 235'
-            type='cases'
+            mapData={mapData}
         />
         : null
-    const deathsByState = mapData ?
-        <ByState
-            width={width}
-            graphColor='230, 48, 78'
-            type='deaths'
-        />
-        : null
+
     return (
         <>
             <div className='mt-12'>
@@ -88,6 +81,11 @@ function Graphs () {
                 <h1 className='text-xl text-red-600 mx-auto text-center'>Incremento no número de mortes / Dia</h1>
                 <h3 className='text-xs text-red-400 mx-auto text-center'>Desde a primeira morte</h3>
                 {incrementDeathMap}
+            </div>
+            <div className='mt-20'>
+                <h1 className='text-xl text-green-600 mx-auto text-center'>Relação Confirmados/Mortes/Recuperados</h1>
+                <h3 className='text-xs text-green-400 mx-auto text-center mb-10'>Números Totais</h3>
+                {totalPie}
             </div>
         </>
     )
