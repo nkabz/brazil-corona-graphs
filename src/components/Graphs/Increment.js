@@ -21,7 +21,6 @@ export default function Increment({ width, mapData, type, graphColor }) {
                 theme={VictoryTheme.material}
                 width={width}
                 height={550}
-                domainPadding={width < 652 ? 0 : 50}
                 animate={{
                     duration: 2000,
                     onLoad: { duration: 1000 }
@@ -55,6 +54,7 @@ export default function Increment({ width, mapData, type, graphColor }) {
                     }}
                     labelComponent={
                         <VictoryTooltip
+                            constrainToVisibleArea={true}
                             flyoutStyle={{
                                 stroke: '#d7d7d7',
                                 fill: 'white',

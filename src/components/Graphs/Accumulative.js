@@ -25,7 +25,6 @@ export default function Accumulative({ width, mapData }) {
             theme={VictoryTheme.material}
             width={width}
             height={550}
-            domainPadding={width < 500 ? 10 : 50}
             padding={60}
             animate={{
                 duration: 1500,
@@ -59,6 +58,7 @@ export default function Accumulative({ width, mapData }) {
                 style={{touchAction: 'auto'}}
                 labelComponent={
                     <VictoryTooltip
+                        constrainToVisibleArea={true}
                         style={{
                             fontSize: width < 500 ? 12 : 16,
                             fill: 'rgba(52, 158, 235, 1)',
