@@ -16,7 +16,8 @@
     "tailwind:css": "tailwind build src/css/tailwind.src.css -c  tailwind.js -o src/css/tailwind.css",
     "start": "yarn tailwind:css && react-scripts start",
     "build": "npm run tailwind:css && react-scripts build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "publish-ghpages":  "yarn build && yarn deploy"
   },
   "eslintConfig": {
     "extends": "react-app"
