@@ -21,10 +21,6 @@ export default function Increment({ width, mapData, type, graphColor }) {
                 theme={VictoryTheme.material}
                 width={width}
                 height={550}
-                animate={{
-                    duration: 2000,
-                    onLoad: { duration: 1000 }
-                }}
                 containerComponent={
                     <VictoryContainer
                         style={{touchAction: 'auto'}}

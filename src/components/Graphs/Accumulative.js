@@ -26,10 +26,6 @@ export default function Accumulative({ width, mapData }) {
             width={width}
             height={550}
             padding={60}
-            animate={{
-                duration: 1500,
-                onLoad: { duration: 1500 }
-            }}
             containerComponent={
                 <VictoryVoronoiContainer
                     style={{touchAction: 'auto'}}
