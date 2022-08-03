@@ -18,9 +18,6 @@ function App() {
                 <p className='text-xs text-gray-600 text-center opacity-75'>
                     Dados coletados de <a className='text-blue-700' href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series">https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series</a>
                 </p>
-                <p className='text-xs font-semibold text-gray-800 text-center my-8'>
-                    #FiqueEmCasa
-                </p>
                 <div className='w-10 h-10 mx-auto'>
                     <a
                         target='_blank'
